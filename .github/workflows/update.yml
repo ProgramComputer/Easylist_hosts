@@ -1,0 +1,33 @@
+name: convert
+on: 
+  push:
+  schedule:
+    - cron: '0 0 1 * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner.
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8 #install the python needed
+      - name: execute py script # run the run.py to get the latest data
+        run: |
+         git clone https://github.com/ProgramComputer/Adblock-hosts-converter.git
+         sudo python3 **adlist_converter.py "https://raw.githubusercontent.com/easylist/easylist/5008acc52f520fbf2a05377e1b95defc95165523/easylist/easylist_adservers.txt"
+         mv filters/easylist_adservers.txt ./hosts
+         rmdir filters
+       env:
+          key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
+      - name: Commit files # transfer the new html files back into the repository
+        run: |
+         git config --local user.name "Update"
+         git add ./*.txt
+         git commit -m "Updating the filterTest folder"
+      - name: Push changes # push the output folder to your repo
+        uses: ad-m/github-push-action@master
+        with:
+         github_token: ${{ secrets.GITHUB_TOKEN }}
+         force: true
