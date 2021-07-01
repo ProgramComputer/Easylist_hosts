@@ -1,4 +1,4 @@
-name: updatw
+name: update
 on: 
   push:
   schedule:
@@ -15,6 +15,7 @@ jobs:
           python-version: 3.8 #install the python needed
       - name: execute py script # run the run.py to get the latest data
         run: |
+         shopt -s globstar
          git clone https://github.com/ProgramComputer/Adblock-hosts-converter.git
          sudo python3 **adlist_converter.py "https://raw.githubusercontent.com/easylist/easylist/5008acc52f520fbf2a05377e1b95defc95165523/easylist/easylist_adservers.txt"
          mv filters/easylist_adservers.txt ./hosts
