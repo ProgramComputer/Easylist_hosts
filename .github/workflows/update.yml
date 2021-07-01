@@ -19,8 +19,10 @@ jobs:
          git clone https://github.com/ProgramComputer/hostsblock.git
          cd **/hostsblock
          make
-         curl -s "https://raw.githubusercontent.com/easylist/easylist/5008acc52f520fbf2a05377e1b95defc95165523/easylist/easylist_adservers.txt" | ./hostsblock - > ~/hosts
+         cd -
+         curl -s "https://raw.githubusercontent.com/easylist/easylist/5008acc52f520fbf2a05377e1b95defc95165523/easylist/easylist_adservers.txt" | **/hostsblock - > hosts
          sudo rm -rf hostsblock
+         sudo rm easylist_adservers.txt
         env:
           key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
       - name: Commit files # transfer the new html files back into the repository
