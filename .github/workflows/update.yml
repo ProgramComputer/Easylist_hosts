@@ -25,7 +25,7 @@ jobs:
       - name: Commit files # transfer the new html files back into the repository
         run: |
          git config --local user.name "Update"
-         git add ./*.txt
+         git add .
          git commit -m "Updating the filterTest folder"
       - name: Push changes # push the output folder to your repo
         uses: ad-m/github-push-action@master
