@@ -20,7 +20,7 @@ jobs:
          cd **/hostsblock
          make
          cd -
-         curl -s "https://raw.githubusercontent.com/easylist/easylist/5008acc52f520fbf2a05377e1b95defc95165523/easylist/easylist_adservers.txt" | **/hostsblock - > hosts
+         curl -s "https://raw.githubusercontent.com/easylist/easylist/5008acc52f520fbf2a05377e1b95defc95165523/easylist/easylist_adservers.txt" | ./hostsblock/hostsblock - > hosts
          sudo rm -rf hostsblock
          sudo rm easylist_adservers.txt
         env:
