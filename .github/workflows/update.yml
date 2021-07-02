@@ -21,8 +21,12 @@ jobs:
          make
          cd -
          mkdir easylistschina
+         mkdir indonesianadblockrules
+         mkdir abpvn
          curl -s "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt" | ./hostsblock/hostsblock - > hosts
          curl -s "https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt" | ./hostsblock/hostsblock - > ./easylistschina/hosts
+         curl -s "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt" | ./hostsblock/hostsblock - > ./indonesianadblockrules/hosts
+         curl -s "https://raw.githubusercontent.com/abpvn/abpvn/master/filter/src/abpvn_ad_domain.txt" | ./hostsblock/hostsblock - > ./abpvn/hosts
          sudo rm -rf hostsblock
         env:
           key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
