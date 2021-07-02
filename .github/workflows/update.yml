@@ -36,7 +36,7 @@ jobs:
          raws[EasyListPortuguese+EasyList]=https://easylist-downloads.adblockplus.org/easylistportuguese+easylist.txt
          raws[EasyListSpanish+EasyList]=https://easylist-downloads.adblockplus.org/easylistspanish+easylist.txt
          raws[IndianList+EasyList]=https://easylist-downloads.adblockplus.org/indianlist+easylist.txt
-         raws[KoreanList+EasyList]=https://easylist-downloads.adblockplus.org/koreanlist+easylist.tx
+         raws[KoreanList+EasyList]=https://easylist-downloads.adblockplus.org/koreanlist+easylist.txt
          raws[LatvianList+EasyList]=https://easylist-downloads.adblockplus.org/latvianlist+easylist.txt
          raws[ListeAR+ListeFR+EasyList]=https://easylist-downloads.adblockplus.org/liste_ar+liste_fr+easylist.txt
          raws[ListeFR+EasyList]=https://easylist-downloads.adblockplus.org/liste_fr+easylist.txt
