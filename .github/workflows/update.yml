@@ -65,12 +65,6 @@ jobs:
          curl -s "https://easylist-downloads.adblockplus.org/rolist+easylist.txt" | ./hostsblock/hostsblock - > ./ROList+EasyList/hosts
          curl -s "https://easylist-downloads.adblockplus.org/ruadlist+easylist.txt" | ./hostsblock/hostsblock - > ./RuAdList+EasyList/hosts
          
-         
-         sudo rm -rf  easylistschina
-         sudo rm -rf  indonesianadblockrules
-         sudo rm -rf  abpvn
-         sudo rm -rf  listefr
-         sudo rm -rf  ruadlist
          sudo rm -rf hostsblock
         env:
           key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
