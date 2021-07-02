@@ -21,7 +21,7 @@ jobs:
          make
          cd -
          declare -A raws
-         raws[ABPindo+EasyList] = https://easylist-downloads.adblockplus.org/abpindo+easylist.txt
+         raws[ABPindo+EasyList]=https://easylist-downloads.adblockplus.org/abpindo+easylist.txt
          raws[ABPVNList+EasyList] = https://easylist-downloads.adblockplus.org/abpvn+easylist.txt
          raws[Bulgarianlist+EasyList] = https://easylist-downloads.adblockplus.org/bulgarian_list+easylist.txt
          raws[NordicFilters+EasyList] = https://easylist-downloads.adblockplus.org/dandelion_sprouts_nordic_filters+easylist.txt
