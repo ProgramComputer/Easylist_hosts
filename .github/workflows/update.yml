@@ -42,7 +42,7 @@ jobs:
          raws[ListeFR+EasyList]=https://easylist-downloads.adblockplus.org/liste_fr+easylist.txt
          raws[ROList+EasyList]=https://easylist-downloads.adblockplus.org/rolist+easylist.txt
          raws[RuAdList+EasyList]=https://easylist-downloads.adblockplus.org/ruadlist+easylist.txt
-         raws[EasyList] = https://easylist-downloads.adblockplus.org/easylist.txt
+         raws[EasyList]=https://easylist-downloads.adblockplus.org/easylist.txt
          curl -s ${raws[EasyList]} | ./hostsblock/hostsblock - > hosts
          unset raws[EasyList]
          for raw in "${!raws[@]}"; do
