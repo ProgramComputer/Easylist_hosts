@@ -23,10 +23,14 @@ jobs:
          mkdir -p easylistschina
          mkdir -p indonesianadblockrules
          mkdir -p abpvn
+         mkdir -p listefr
+         mkdir -p ruadlist
          curl -s "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt" | ./hostsblock/hostsblock - > hosts
          curl -s "https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt" | ./hostsblock/hostsblock - > ./easylistschina/hosts
          curl -s "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt" | ./hostsblock/hostsblock - > ./indonesianadblockrules/hosts
          curl -s "https://raw.githubusercontent.com/abpvn/abpvn/master/filter/src/abpvn_ad_domain.txt" | ./hostsblock/hostsblock - > ./abpvn/hosts
+         curl -s "https://raw.githubusercontent.com/easylist/listefr/master/liste_fr.txt" | ./hostsblock/hostsblock - > ./listefr/hosts
+         curl -s "https://raw.githubusercontent.com/easylist/ruadlist/master/advblock/adservers.txt" | ./hostsblock/hostsblock - > ./ruadlist/hosts
          sudo rm -rf hostsblock
         env:
           key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
