@@ -23,7 +23,7 @@ jobs:
          mkdir -p ABPindo+EasyList
          mkdir -p ABPVNList+EasyList
          mkdir -p Bulgarianlist+EasyList
-         mkdir -p DandelionSprout'sNordicFilters+EasyList
+         mkdir -p NordicFilters+EasyList
          mkdir -p EasyListChina+EasyList
          mkdir -p EasyListCzechandSlovak+EasyList
          mkdir -p EasyListDutch+EasyList
@@ -46,7 +46,7 @@ jobs:
          curl -s "https://easylist-downloads.adblockplus.org/abpindo+easylist.txt" | ./hostsblock/hostsblock - > ./ABPindo+EasyList/hosts
          curl -s "https://easylist-downloads.adblockplus.org/abpvn+easylist.txt" | ./hostsblock/hostsblock - > ./ABPVNList+EasyList/hosts
          curl -s "https://easylist-downloads.adblockplus.org/bulgarian_list+easylist.txt" | ./hostsblock/hostsblock - > ./Bulgarianlist+EasyList/hosts
-         curl -s "https://easylist-downloads.adblockplus.org/dandelion_sprouts_nordic_filters+easylist.txt"  | ./hostsblock/hostsblock - > ./DandelionSprout'sNordicFilters+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/dandelion_sprouts_nordic_filters+easylist.txt"  | ./hostsblock/hostsblock - > ./NordicFilters+EasyList/hosts
          curl -s "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt" | ./hostsblock/hostsblock - > ./EasyListChina+EasyList/hosts
          curl -s "https://easylist-downloads.adblockplus.org/easylistczechslovak+easylist.txt" | ./hostsblock/hostsblock - > ./EasyListCzechandSlovak+EasyList/hosts
          curl -s "https://easylist-downloads.adblockplus.org/easylistdutch+easylist.txt" | ./hostsblock/hostsblock - > ./EasyListDutch+EasyList/hosts
