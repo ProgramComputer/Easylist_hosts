@@ -52,9 +52,9 @@ jobs:
             curl -s ${raws[$raw]} | ./hostsblock/hostsblock - > ./$raw/hosts
          done
          mkdir -p EasylistAllCombined
-         sort hosts **/hosts | uniq > ./EasylistAllCombined/hosts
+         sort hosts **/hosts | uniq > ./EasyListAllCombined/hosts
          
-          
+         sudo rm -rf EasylistAllCombined
          sudo rm -rf hostsblock
         env:
           key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
