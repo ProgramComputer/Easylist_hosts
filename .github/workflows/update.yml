@@ -20,17 +20,57 @@ jobs:
          cd **/hostsblock
          make
          cd -
-         mkdir -p easylistschina
-         mkdir -p indonesianadblockrules
-         mkdir -p abpvn
-         mkdir -p listefr
-         mkdir -p ruadlist
-         curl -s "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt" | ./hostsblock/hostsblock - > hosts
-         curl -s "https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt" | ./hostsblock/hostsblock - > ./easylistschina/hosts
-         curl -s "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt" | ./hostsblock/hostsblock - > ./indonesianadblockrules/hosts
-         curl -s "https://raw.githubusercontent.com/abpvn/abpvn/master/filter/src/abpvn_ad_domain.txt" | ./hostsblock/hostsblock - > ./abpvn/hosts
-         curl -s "https://raw.githubusercontent.com/easylist/listefr/master/liste_fr.txt" | ./hostsblock/hostsblock - > ./listefr/hosts
-         curl -s "https://raw.githubusercontent.com/easylist/ruadlist/master/advblock/adservers.txt" | ./hostsblock/hostsblock - > ./ruadlist/hosts
+         mkdir -p ABPindo+EasyList
+         mkdir -p ABPVN List+EasyList
+         mkdir -p Bulgarian list+EasyList
+         mkdir -p Dandelion Sprout's Nordic Filters+EasyList
+         mkdir -p EasyList China+EasyList
+         mkdir -p EasyList Czech and Slovak+EasyList
+         mkdir -p EasyList Dutch+EasyList
+         mkdir -p EasyList Germany+EasyList
+         mkdir -p EasyList Hebrew+EasyList
+         mkdir -p EasyList Italy+EasyList
+         mkdir -p EasyList Lithuania+EasyList
+         mkdir -p EasyList Polish+EasyList
+         mkdir -p EasyList Portuguese+EasyList
+         mkdir -p EasyList Spanish+EasyList
+         mkdir -p IndianList+EasyList
+         mkdir -p KoreanList+EasyList
+         mkdir -p Latvian List+EasyList
+         mkdir -p Liste AR+Liste FR+EasyList
+         mkdir -p Liste FR+EasyList
+         mkdir -p ROList+EasyList
+         mkdir -p RuAdList+EasyList
+ 
+         curl -s "https://easylist-downloads.adblockplus.org/easylist.txt" | ./hostsblock/hostsblock - > hosts
+         curl -s "https://easylist-downloads.adblockplus.org/abpindo+easylist.txt" | ./hostsblock/hostsblock - > ./ABPindo+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/abpvn+easylist.txt" | ./hostsblock/hostsblock - > ./ABPVN List+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/bulgarian_list+easylist.txt" | ./hostsblock/hostsblock - > ./Bulgarian list+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/dandelion_sprouts_nordic_filters+easylist.txt"  | ./hostsblock/hostsblock - > ./Dandelion Sprout's Nordic Filters+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt" | ./hostsblock/hostsblock - > ./EasyList China+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/easylistczechslovak+easylist.txt" | ./hostsblock/hostsblock - > ./EasyList Czech and Slovak+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/easylistdutch+easylist.txt" | ./hostsblock/hostsblock - > ./EasyList Dutch+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/easylistgermany+easylist.txt" | ./hostsblock/hostsblock - > ./EasyList Germany+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/israellist+easylist.txt" | ./hostsblock/hostsblock - > ./EasyList Hebrew+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/easylistitaly+easylist.txt" | ./hostsblock/hostsblock - > ./EasyList Italy+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/easylistlithuania+easylist.txt" | ./hostsblock/hostsblock - > ./EasyList Lithuania+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/easylistpolish+easylist.txt" | ./hostsblock/hostsblock - >  ./EasyList Polish+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/easylistportuguese+easylist.txt" | ./hostsblock/hostsblock - >  ./EasyList Portuguese+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/easylistspanish+easylist.txt" | ./hostsblock/hostsblock - > ./EasyList Spanish+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/indianlist+easylist.txt" | ./hostsblock/hostsblock - > ./IndianList+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/koreanlist+easylist.txt" | ./hostsblock/hostsblock - > ./KoreanList+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/latvianlist+easylist.txt" | ./hostsblock/hostsblock - > ./Latvian List+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/liste_ar+liste_fr+easylist.txt"  | ./hostsblock/hostsblock - > ./Liste AR+Liste FR+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/liste_fr+easylist.txt" | ./hostsblock/hostsblock - > ./Liste FR+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/rolist+easylist.txt" | ./hostsblock/hostsblock - > ./ROList+EasyList/hosts
+         curl -s "https://easylist-downloads.adblockplus.org/ruadlist+easylist.txt" | ./hostsblock/hostsblock - > ./RuAdList+EasyList/hosts
+         
+         
+         sudo rm -rf  easylistschina
+         sudo rm -rf  indonesianadblockrules
+         sudo rm -rf  abpvn
+         sudo rm -rf  listefr
+         sudo rm -rf  ruadlist
          sudo rm -rf hostsblock
         env:
           key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
