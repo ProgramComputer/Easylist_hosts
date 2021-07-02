@@ -4,8 +4,8 @@
 Also has supplemental hosts file in here https://adblockplus.org/subscriptions and in general from https://github.com/easylist
 
 
-Github repository
- :----------------:
+Raws
+:----------------:
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
 https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt 
