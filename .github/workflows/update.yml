@@ -20,7 +20,9 @@ jobs:
          cd **/hostsblock
          make
          cd -
-         curl -s "https://raw.githubusercontent.com/easylist/easylist/5008acc52f520fbf2a05377e1b95defc95165523/easylist/easylist_adservers.txt" | ./hostsblock/hostsblock - > hosts
+         mkdir easylistschina
+         curl -s "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt" | ./hostsblock/hostsblock - > hosts
+         curl -s "https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt" | ./hostsblock/hostsblock - > ./easylistschina/hosts
          sudo rm -rf hostsblock
         env:
           key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
