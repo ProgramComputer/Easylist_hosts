@@ -1,4 +1,4 @@
-# Easylist_adservers_host
+# Easylist_adservers_hosts
 [Easylist adservers](https://github.com/easylist/easylist/blob/master/easylist/easylist_adservers.txt) as main hosts file
 
 Also has supplemental hosts file in here https://adblockplus.org/subscriptions, https://github.com/easylist, and https://gitlab.com/eyeo/adblockplus/adblockpluscore/-/blob/next/data/subscriptions.json .
