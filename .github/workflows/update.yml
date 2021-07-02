@@ -54,7 +54,6 @@ jobs:
          mkdir -p EasyListAllCombined
          sort hosts **/hosts | uniq > ./EasyListAllCombined/hosts
          
-         sudo rm -rf EasylistAllCombined
          sudo rm -rf hostsblock
         env:
           key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
