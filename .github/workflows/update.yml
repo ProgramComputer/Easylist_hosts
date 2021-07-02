@@ -51,6 +51,8 @@ jobs:
             echo ${raws[$raw]}
             curl -s ${raws[$raw]} | ./hostsblock/hostsblock - > ./$raw/hosts
          done
+         mkdir -p EasylistAllCombined
+         sort hosts **/hosts | uniq > ./EasylistAllCombined/hosts
          
           
          sudo rm -rf hostsblock
