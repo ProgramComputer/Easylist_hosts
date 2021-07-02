@@ -47,6 +47,8 @@ jobs:
          unset raws[EasyList]
          for raw in "${!raws[@]}"; do
             mkdir -p $raw
+            echo $raw
+            echo ${raws[$raw]}
             curl -s ${raws[$raw]} | ./hostsblock/hostsblock - > ./$raw/hosts
          done
          
