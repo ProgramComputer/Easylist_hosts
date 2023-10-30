@@ -42,6 +42,9 @@ jobs:
          raws[ListeFR+EasyList]=https://easylist-downloads.adblockplus.org/liste_fr+easylist.txt
          raws[ROList+EasyList]=https://easylist-downloads.adblockplus.org/rolist+easylist.txt
          raws[RuAdList+EasyList]=https://easylist-downloads.adblockplus.org/ruadlist+easylist.txt
+         raws[EasyList_noadult] = https://easylist-downloads.adblockplus.org/easylist_noadult.txt
+         raws[antiadblockfilters] = https://easylist-downloads.adblockplus.org/antiadblockfilters.txt 
+         raws[easylist_noelemhide] = https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt  
          raws[EasyList]=https://easylist-downloads.adblockplus.org/easylist.txt
          curl -s ${raws[EasyList]} | ./hostsblock/hostsblock - > hosts
          unset raws[EasyList]
