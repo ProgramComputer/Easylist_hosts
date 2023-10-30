@@ -1,4 +1,4 @@
-# Easylist_adservers_hosts
+# Easylist_hosts
 [Easylist adservers](https://github.com/easylist/easylist/blob/master/easylist/easylist_adservers.txt) as [main hosts file](https://github.com/ProgramComputer/Easylist_adservers_hosts/blob/main/hosts)
 
 [EasyListAllCombined](https://github.com/ProgramComputer/Easylist_adservers_hosts/tree/main/EasyListAllCombined) has all the hosts from every raw.
