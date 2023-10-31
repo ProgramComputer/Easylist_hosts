@@ -62,10 +62,18 @@ jobs:
          rm -rf master.zip
          subdirectories=("easylist" "easylist_adult" "easylist_cookie" "easyprivacy" "fanboy-addon")
          
-         for dir in "./easylist-master/${subdirectories[@]}"; do
-             echo $dir;
+         for dir in "${subdirectories[@]}"; do
+            full_dir="./easylist-master/$dir"
+            for file in "$full_dir"/*; do
+                if [ -f "$file" ]; then
+           mkdir -p $file;
+           echo $file;
+           ./$file | ./hostsblock/hostsblock - > ./EasyListMirror/$dir/$file/hosts;
+                fi
+          done
          done
          sudo rm -rf hostsblock
+         sudo rm -rf easylist-master
         env:
           key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
       - name: Commit files # transfer the new html files back into the repository
