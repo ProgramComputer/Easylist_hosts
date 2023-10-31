@@ -54,6 +54,7 @@ jobs:
          sort hosts **/hosts | uniq > ./EasyListAllCombined/hosts
          echo "Download";
          wget https://github.com/easylist/easylist/archive/refs/heads/master.zip
+         umask 777
          unzip master.zip
          rm -rf master.zip
          subdirectories=("easylist" "easylist_adult" "easylist_cookie" "easyprivacy" "fanboy-addon")
