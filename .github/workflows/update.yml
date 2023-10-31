@@ -56,7 +56,7 @@ jobs:
          wget https://github.com/easylist/easylist/archive/refs/heads/master.zip
          unzip master.zip
          rm -rf master.zip
-         cmmod -R 111 ./easylist-master
+         chmod -R 111 ./easylist-master
          subdirectories=("easylist" "easylist_adult" "easylist_cookie" "easyprivacy" "fanboy-addon")
          
          for dir in "${subdirectories[@]}"; do
