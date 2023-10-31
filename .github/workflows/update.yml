@@ -56,8 +56,16 @@ jobs:
          done
          mkdir -p EasyListAllCombined
          sort hosts **/hosts | uniq > ./EasyListAllCombined/hosts
-         
+         git clone https://github.com/easylist/easylist.git
+         subdirectories=("./easylist/easylist" "./easylist/easylist_adult" "./easylist/easylist_cookie" "./easylist/easyprivacy" "./easylist/fanboy-addon")
+
+          # Iterate through each subdirectory
+         for dir in "${subdirectories[@]}"; do
+            ${raws[$raw]} | ./hostsblock/hostsblock - > ./$raw/hosts
+            find "$dir" -type f -exec sh -c 'mkdir -p $0;echo $0;./$0 | ./hostsblock/hostsblock - > ./$raw/hosts"' {} \;
+         done
          sudo rm -rf hostsblock
+         sudo rm -rf easylist
         env:
           key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
       - name: Commit files # transfer the new html files back into the repository
