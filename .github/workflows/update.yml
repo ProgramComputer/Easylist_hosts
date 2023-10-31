@@ -56,14 +56,13 @@ jobs:
          done
          mkdir -p EasyListAllCombined
          sort hosts **/hosts | uniq > ./EasyListAllCombined/hosts
-         git clone https://github.com/easylist/easylist.git
-         subdirectories=("./easylist/easylist" "./easylist/easylist_adult" "./easylist/easylist_cookie" "./easylist/easyprivacy" "./easylist/fanboy-addon")
-         
-         for dir in "${subdirectories[@]}"; do
-             echo $dir;
-          done
+         echo "Download";
+         wget https://github.com/easylist/easylist/archive/refs/heads/master.zip
+         ls -a
+         unzip master.zip
+         ls -a
+         rm -rf master.zip
          sudo rm -rf hostsblock
-         sudo rm -rf easylist
         env:
           key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
       - name: Commit files # transfer the new html files back into the repository
