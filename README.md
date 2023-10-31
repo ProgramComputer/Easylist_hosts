@@ -1,11 +1,14 @@
 # Easylist_hosts
 [Easylist adservers](https://github.com/easylist/easylist/blob/master/easylist/easylist_adservers.txt) as [main hosts file](https://github.com/ProgramComputer/Easylist_adservers_hosts/blob/main/hosts)
 
-[EasyListAllCombined](https://github.com/ProgramComputer/Easylist_adservers_hosts/tree/main/EasyListAllCombined) has all the hosts from every raw.
-
-Also has supplemental hosts file in here https://adblockplus.org/subscriptions, https://github.com/easylist, and https://gitlab.com/eyeo/adblockplus/adblockpluscore/-/blob/next/data/subscriptions.json .
-
 [EasyListMirror](https://github.com/ProgramComputer/Easylist_hosts/tree/main/EasyListMirror) contains a mirror of hosts from https://github.com/easylist/easylist.
+
+
+Contains supplemental hosts file from https://adblockplus.org/subscriptions, https://github.com/easylist, and https://gitlab.com/eyeo/adblockplus/adblockpluscore/-/blob/next/data/subscriptions.json .
+
+[EasyListAllCombined](https://github.com/ProgramComputer/Easylist_adservers_hosts/tree/main/EasyListAllCombined) has all the hosts from every host below.
+
+
 
 | type | languages                           | title                                      | url                                                                                      | homepage                                                 |
 | ---- | ----------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------- | -------------------------------------------------------- |
