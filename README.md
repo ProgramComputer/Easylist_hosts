@@ -5,7 +5,7 @@
 
 Also has supplemental hosts file in here https://adblockplus.org/subscriptions, https://github.com/easylist, and https://gitlab.com/eyeo/adblockplus/adblockpluscore/-/blob/next/data/subscriptions.json .
 
-EasyListMirror contains a mirror of hosts from https://github.com/easylist/easylist.
+[EasyListMirror](https://github.com/ProgramComputer/Easylist_hosts/tree/main/EasyListMirror) contains a mirror of hosts from https://github.com/easylist/easylist.
 
 | type | languages                           | title                                      | url                                                                                      | homepage                                                 |
 | ---- | ----------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------- | -------------------------------------------------------- |
