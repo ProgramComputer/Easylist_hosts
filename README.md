@@ -36,4 +36,4 @@ Also has supplemental hosts file in here https://adblockplus.org/subscriptions, 
 | ads  | ru,uk                               | RuAdList+EasyList                          | https://easylist-downloads.adblockplus.org/ruadlist+easylist.txt                         | https://forums.lanik.us/viewforum.php?f=102              |
 
 ## Runner Info
-This repository updates list at every day at 12:00 AM UTC. It runs the following script - https://github.com/ProgramComputer/hostsblock.
+This repository updates hosts every day at 12:00 AM UTC. It runs the following script - https://github.com/ProgramComputer/hostsblock.
