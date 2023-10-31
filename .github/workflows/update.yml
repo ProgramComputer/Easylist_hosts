@@ -22,9 +22,16 @@ jobs:
          cd -
          git clone https://github.com/easylist/easylist.git
          subdirectories=("./easylist/easylist" "./easylist/easylist_adult" "./easylist/easylist_cookie" "./easylist/easyprivacy" "./easylist/fanboy-addon")
-
+         
          for dir in "${subdirectories[@]}"; do
-            find "$dir" -type f -exec sh -c 'mkdir -p $0;echo $0;./$0 | ./hostsblock/hostsblock - > ./EasyListMirror/$dir/$0/hosts"' {} \;
+             for file in "$dir"/*; do
+                if [ -f "$file" ]; then
+            echo "Processing file: $file"
+           mkdir -p $file;
+           echo $file;
+           ./$file | ./hostsblock/hostsblock - > ./EasyListMirror/$dir/$file/hosts;
+                fi
+          done
          done
          sudo rm -rf hostsblock
          sudo rm -rf easylist
