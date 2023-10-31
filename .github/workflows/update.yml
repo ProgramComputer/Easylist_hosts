@@ -66,9 +66,10 @@ jobs:
             full_dir="./easylist-master/$dir"
             for file in "$full_dir"/*; do
                 if [ -f "$file" ]; then
-           mkdir -p $file;
+            filename=$(basename "$file")
+           mkdir -p ./EasyListMirror/$dir/$filename;
            echo $file;
-           ./$file | ./hostsblock/hostsblock - > ./EasyListMirror/$dir/$file/hosts;
+           ./$file | ./hostsblock/hostsblock - > ./EasyListMirror/$dir/$filename/hosts;
                 fi
           done
          done
