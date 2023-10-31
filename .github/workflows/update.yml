@@ -57,6 +57,11 @@ jobs:
          mkdir -p EasyListAllCombined
          sort hosts **/hosts | uniq > ./EasyListAllCombined/hosts
          git clone https://github.com/easylist/easylist.git
+         subdirectories=("./easylist/easylist" "./easylist/easylist_adult" "./easylist/easylist_cookie" "./easylist/easyprivacy" "./easylist/fanboy-addon")
+         
+         for dir in "${subdirectories[@]}"; do
+             echo $dir;
+          done
          sudo rm -rf hostsblock
          sudo rm -rf easylist
         env:
