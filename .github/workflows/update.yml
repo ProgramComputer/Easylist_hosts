@@ -58,10 +58,13 @@ jobs:
          sort hosts **/hosts | uniq > ./EasyListAllCombined/hosts
          echo "Download";
          wget https://github.com/easylist/easylist/archive/refs/heads/master.zip
-         ls -a
          unzip master.zip
-         ls -a
          rm -rf master.zip
+         subdirectories=("easylist" "easylist_adult" "easylist_cookie" "easyprivacy" "fanboy-addon")
+         
+         for dir in "./easylist-master/${subdirectories[@]}"; do
+             echo $dir;
+         done
          sudo rm -rf hostsblock
         env:
           key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
