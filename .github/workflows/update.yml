@@ -69,7 +69,7 @@ jobs:
             filename=$(basename "$file")
            mkdir -p ./EasyListMirror/$dir/$filename;
            echo $file;
-           ./$file | ./hostsblock/hostsblock - > ./EasyListMirror/$dir/$filename/hosts;
+           $file | ./hostsblock/hostsblock - > ./EasyListMirror/$dir/$filename/hosts;
                 fi
           done
          done
