@@ -230,6 +230,7 @@
 0.0.0.0 click360v2-ingest.azurewebsites.net
 0.0.0.0 clicks.dealer.com
 0.0.0.0 clicks.tyuwq.com
+0.0.0.0 clicktalecdn.sslcs.cdngc.net
 0.0.0.0 clicktracker.iscan.nl
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client-logger.beta.salemove.com
@@ -770,6 +771,7 @@
 0.0.0.0 stats.mpthemes.net
 0.0.0.0 stats.nebula.fi
 0.0.0.0 stats.netbopdev.co.uk
+0.0.0.0 stats.netdriven.com
 0.0.0.0 stats.olark.com
 0.0.0.0 stats.ozwebsites.biz
 0.0.0.0 stats.phoenix-widget.com
