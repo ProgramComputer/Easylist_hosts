@@ -86,6 +86,7 @@
 0.0.0.0 c.newyorker.com
 0.0.0.0 c.thredup.com
 0.0.0.0 c.vogue.com
+0.0.0.0 c.wired.com
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.xbox.com
 0.0.0.0 cl.canva.com
@@ -143,7 +144,6 @@
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.nytimes.com
 0.0.0.0 deliver.ptgncdn.com
-0.0.0.0 digianalytics.airtel.in
 0.0.0.0 discover-metrics.cloud.seek.com.au
 0.0.0.0 dp.shoprunner.com
 0.0.0.0 dtag.breadfinancial.com
@@ -344,6 +344,7 @@
 0.0.0.0 pxl.indeed.com
 0.0.0.0 qc.newyorker.com
 0.0.0.0 qc.vogue.com
+0.0.0.0 qc.wired.com
 0.0.0.0 qm.redbull.com
 0.0.0.0 r.apkpure.net
 0.0.0.0 r.bbci.co.uk
