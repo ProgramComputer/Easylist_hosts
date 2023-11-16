@@ -405,6 +405,7 @@
 0.0.0.0 events.ubembed.com
 0.0.0.0 events.whisk.com
 0.0.0.0 events.yourcx.io
+0.0.0.0 eventsproxy.gargantuan.futureplc.com
 0.0.0.0 evt.houzz.com
 0.0.0.0 experience.contextly.com
 0.0.0.0 f-log-at.grammarly.io
@@ -821,6 +822,7 @@
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 t.clic2buy.com
 0.0.0.0 t.enuygun.com
+0.0.0.0 t.ghostboard.io
 0.0.0.0 t.irtyc.com
 0.0.0.0 t.jobsyn.org
 0.0.0.0 t.menepe.com

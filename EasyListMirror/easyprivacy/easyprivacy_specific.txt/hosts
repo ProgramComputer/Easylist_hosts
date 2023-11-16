@@ -224,6 +224,7 @@
 0.0.0.0 heap.drop.com
 0.0.0.0 hits.cyberdrop.me
 0.0.0.0 hlogger.heraldcorp.com
+0.0.0.0 htrace.wetvinfo.com
 0.0.0.0 i.pokernews.com
 0.0.0.0 iam-rum-intake.datadoghq.com
 0.0.0.0 iedc.fitbit.com
@@ -454,6 +455,7 @@
 0.0.0.0 telegraph.prd.api.max.com
 0.0.0.0 telem.sre.gopuff.com
 0.0.0.0 telemetry.adobe.io
+0.0.0.0 telemetry.algolia.com
 0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.firez.one
 0.0.0.0 telemetry.tradingview.com
