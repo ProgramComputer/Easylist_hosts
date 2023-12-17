@@ -145,6 +145,7 @@
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.nytimes.com
 0.0.0.0 deliver.ptgncdn.com
+0.0.0.0 df.infra.shopee.ph
 0.0.0.0 discover-metrics.cloud.seek.com.au
 0.0.0.0 dp.shoprunner.com
 0.0.0.0 dtag.breadfinancial.com
@@ -504,8 +505,6 @@
 0.0.0.0 tracking.christianpost.com
 0.0.0.0 tracking.digitalocean.com
 0.0.0.0 tracking.engineering.cloud.seek.com.au
-0.0.0.0 tracking.epicgames.com
-0.0.0.0 tracking.fortnite.com
 0.0.0.0 tracking.hsn.com
 0.0.0.0 tracking.shopstyle.co.uk
 0.0.0.0 tracking.shopstyle.com
@@ -517,6 +516,7 @@
 0.0.0.0 trx3.famousfix.com
 0.0.0.0 ts.delfi.lt
 0.0.0.0 ua.indianexpress.com
+0.0.0.0 ubt.tracking.shopee.ph
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 um.contentstudio.io
 0.0.0.0 umami.wakarimasen.moe
