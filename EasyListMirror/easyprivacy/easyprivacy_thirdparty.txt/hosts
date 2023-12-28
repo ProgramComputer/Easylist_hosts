@@ -461,6 +461,7 @@
 0.0.0.0 hb.vhsrv.com
 0.0.0.0 hello.staticstuff.net
 0.0.0.0 hi.hellobar.com
+0.0.0.0 highway.cablecar.sph.com.sg
 0.0.0.0 hit.mybestpro.com
 0.0.0.0 hits.dealer.com
 0.0.0.0 hits.getelevar.com
@@ -815,6 +816,7 @@
 0.0.0.0 statscollector.sd-rtn.com
 0.0.0.0 statt-collect.herokuapp.com
 0.0.0.0 stg-data-collector.playbuzz.com
+0.0.0.0 streams.cablecar.sph.com.sg
 0.0.0.0 sts.eccmp.com
 0.0.0.0 sunlightmetrics.b-cdn.net
 0.0.0.0 survey.interquest.com
@@ -1087,6 +1089,7 @@
 0.0.0.0 wsmcdn.audioeye.com
 0.0.0.0 wt.viagogo.net
 0.0.0.0 wtbevents.pricespider.com
+0.0.0.0 wtr-digital-analytics.ew.r.appspot.com
 0.0.0.0 x.babe.today
 0.0.0.0 x.disq.us
 0.0.0.0 x.weather.com
