@@ -20,7 +20,6 @@
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 ams-pageview-public.s3.amazonaws.com
-0.0.0.0 an.yandex.ru
 0.0.0.0 analyse.bcovery.com
 0.0.0.0 analytic.rollout.io
 0.0.0.0 analyticcdn.globalmailer.com
@@ -379,7 +378,6 @@
 0.0.0.0 event.api.drift.com
 0.0.0.0 event.getblue.io
 0.0.0.0 event.instiengage.com
-0.0.0.0 event.mrtnsvr.com
 0.0.0.0 event.syndigo.cloud
 0.0.0.0 event.webcollage.net
 0.0.0.0 eventapi.libring.com
@@ -650,7 +648,6 @@
 0.0.0.0 pixel.solvemedia.com
 0.0.0.0 pixel.sprinklr.com
 0.0.0.0 pixel.videohub.tv
-0.0.0.0 pixel.widgetly.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 pixel.yola.com
@@ -940,7 +937,6 @@
 0.0.0.0 track.sitetag.us
 0.0.0.0 track.social.com
 0.0.0.0 track.strife.com
-0.0.0.0 track.tcppu.com
 0.0.0.0 track.td3x.com
 0.0.0.0 track.uc.cn
 0.0.0.0 track.untd.com
