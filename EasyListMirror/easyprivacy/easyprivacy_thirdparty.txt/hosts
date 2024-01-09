@@ -134,6 +134,7 @@
 0.0.0.0 analytics.vanillaforums.com
 0.0.0.0 analytics.vdo.ai
 0.0.0.0 analytics.vendemore.com
+0.0.0.0 analytics.vixcloud.co
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.webpushr.com
 0.0.0.0 analytics.websolute.it
@@ -359,6 +360,7 @@
 0.0.0.0 ec.walkme.com
 0.0.0.0 ecomm.events
 0.0.0.0 ecommstats.s3.amazonaws.com
+0.0.0.0 edge.adobedc.net
 0.0.0.0 eel.transistor.fm
 0.0.0.0 ele26126.jscrambler.com
 0.0.0.0 eq.userneeds.com
@@ -498,6 +500,7 @@
 0.0.0.0 jtracking-gate.lulusoft.com
 0.0.0.0 k.keyade.com
 0.0.0.0 k.streamrail.com
+0.0.0.0 k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com
 0.0.0.0 kalstats.kaltura.com
 0.0.0.0 kiwi.mdldb.net
 0.0.0.0 l.ooyala.com
@@ -631,6 +634,7 @@
 0.0.0.0 pix.spot.im
 0.0.0.0 pixel-a.basis.net
 0.0.0.0 pixel.ampry.com
+0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel.archipro.co.nz
 0.0.0.0 pixel.blivenyc.com
 0.0.0.0 pixel.byspotify.com
@@ -875,6 +879,7 @@
 0.0.0.0 tags.dxmdp.com
 0.0.0.0 tags.fullcontact.com
 0.0.0.0 tags.master-perf-tools.com
+0.0.0.0 tags.newscgp.com
 0.0.0.0 tags.refinery89.com
 0.0.0.0 tagtracking.vibescm.com
 0.0.0.0 target.mixi.media
