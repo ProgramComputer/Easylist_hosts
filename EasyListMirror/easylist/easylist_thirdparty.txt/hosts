@@ -104,6 +104,7 @@
 0.0.0.0 js.mangakl.su
 0.0.0.0 js.mangalove.top
 0.0.0.0 js.phoenixmanga.com
+0.0.0.0 k8s-adserver-adserver-4b35ec6a1d-815734624.us-east-1.elb.amazonaws.com
 0.0.0.0 karma.mdpcdn.com
 0.0.0.0 link.link.ru
 0.0.0.0 linkx.ix.tc
@@ -134,7 +135,6 @@
 0.0.0.0 sbhc.portalhc.com
 0.0.0.0 search-carousel-widget.snc-prod.aws.cinch.co.uk
 0.0.0.0 services.zam.com
-0.0.0.0 serving.incrementxplay.com
 0.0.0.0 squirrels.getsquirrel.co
 0.0.0.0 srv.dynamicyield.com
 0.0.0.0 srv.tunefindforfans.com
@@ -803,6 +803,7 @@
 0.0.0.0 d3vnm1492fpnm2.cloudfront.net
 0.0.0.0 d3vp85u5z4wlqf.cloudfront.net
 0.0.0.0 d3vpf6i51y286p.cloudfront.net
+0.0.0.0 d3vsc1wu2k3z85.cloudfront.net
 0.0.0.0 d3vw4uehoh23hx.cloudfront.net
 0.0.0.0 d3x0jb14w6nqz.cloudfront.net
 0.0.0.0 d3zd5ejbi4l9w.cloudfront.net
@@ -850,6 +851,7 @@
 0.0.0.0 dc08i221b0n8a.cloudfront.net
 0.0.0.0 dc5k8fg5ioc8s.cloudfront.net
 0.0.0.0 dcai7bdiz5toz.cloudfront.net
+0.0.0.0 dcbbwymp1bhlf.cloudfront.net
 0.0.0.0 dczhbhtz52fpi.cloudfront.net
 0.0.0.0 ddlh1467paih3.cloudfront.net
 0.0.0.0 ddmuiijrdvv0s.cloudfront.net
