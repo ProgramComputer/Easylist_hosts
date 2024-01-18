@@ -104,6 +104,7 @@
 0.0.0.0 aa.dyson.com
 0.0.0.0 aa.dyson.de
 0.0.0.0 aa.dyson.dk
+0.0.0.0 aa.dyson.es
 0.0.0.0 aa.maxblue.de
 0.0.0.0 aa.norisbank.de
 0.0.0.0 aa.postbank.de
@@ -120,6 +121,7 @@
 0.0.0.0 acs.woolworths.com.au
 0.0.0.0 activity.newlook.com
 0.0.0.0 adb-analytics.live-now.com
+0.0.0.0 adbmetrics.koreanair.com
 0.0.0.0 adbmetrics.larioja.com
 0.0.0.0 adbmetrics.lasprovincias.es
 0.0.0.0 adbmetrics.laverdad.es
@@ -1021,6 +1023,7 @@
 0.0.0.0 dii3.zooplus.hr
 0.0.0.0 dii3.zooplus.hu
 0.0.0.0 dii3.zooplus.ie
+0.0.0.0 dii3.zooplus.it
 0.0.0.0 eagle.kudzu.com
 0.0.0.0 electronics.sony-latin.com
 0.0.0.0 emetrics.bose.ca
@@ -1780,6 +1783,7 @@
 0.0.0.0 metrics.fressnapf.ch
 0.0.0.0 metrics.friskies.com
 0.0.0.0 metrics.ftd.com
+0.0.0.0 metrics.galicia.ar
 0.0.0.0 metrics.gap.com
 0.0.0.0 metrics.genesis.es
 0.0.0.0 metrics.gengraf.com
@@ -2152,6 +2156,7 @@
 0.0.0.0 metrics.rci.com
 0.0.0.0 metrics.rcsmetrics.it
 0.0.0.0 metrics.realclearpolitics.com
+0.0.0.0 metrics.reallymoving.com
 0.0.0.0 metrics.realpropertymgt.com
 0.0.0.0 metrics.realsimple.com
 0.0.0.0 metrics.realtor.com

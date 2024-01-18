@@ -1548,6 +1548,8 @@
 0.0.0.0 images.contact.cigna.com
 0.0.0.0 images.contact.princess.com
 0.0.0.0 images.contact.staubli.com
+0.0.0.0 images.contacto.unis.edu.gt
+0.0.0.0 images.e.seagate.com
 0.0.0.0 images.e.skandia.pl
 0.0.0.0 images.e.tcichemicals.com
 0.0.0.0 images.e.transunion.com
@@ -2132,6 +2134,7 @@
 0.0.0.0 mail.dolce-gusto.com.my
 0.0.0.0 mail.dolce-gusto.com.sg
 0.0.0.0 mail.dolce-gusto.com.tw
+0.0.0.0 mail.dolce-gusto.cz
 0.0.0.0 mail.hsm.co.uk
 0.0.0.0 making-future.afry.com
 0.0.0.0 marketing-ap.mmc.co.jp
@@ -2314,6 +2317,9 @@
 0.0.0.0 origin.www.images.2.forms.healthcare.philips.com
 0.0.0.0 our.sunshinecoast.qld.gov.au
 0.0.0.0 outsource.sitel.com
+0.0.0.0 owp-hk.americanexpress.com
+0.0.0.0 owp-sg-prop.americanexpress.com
+0.0.0.0 owp-tw.americanexpress.com
 0.0.0.0 p01.sc.origins.en25.com
 0.0.0.0 p03.sc.origins.en25.com
 0.0.0.0 p04.sc.origins.en25.com
@@ -3514,6 +3520,7 @@
 0.0.0.0 trk.designnews.com
 0.0.0.0 trk.digitaltveurope.com
 0.0.0.0 trk.dosatron.com
+0.0.0.0 trk.drdobbs.com
 0.0.0.0 trk.du-darfst.de
 0.0.0.0 trk.dvsystems.com
 0.0.0.0 trk.e.chooseumpquabank.com
