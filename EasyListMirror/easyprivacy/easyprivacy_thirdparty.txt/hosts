@@ -27,6 +27,7 @@
 0.0.0.0 analytics-api.klickly.com
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-consent-manager-v2-prod.azureedge.net
+0.0.0.0 analytics-prd.aws.wehaa.net
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-scripts.cablelabs.com
 0.0.0.0 analytics-sg.tiktok.com
