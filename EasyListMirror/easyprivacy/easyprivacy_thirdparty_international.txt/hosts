@@ -9,7 +9,6 @@
 0.0.0.0 blacktri-a.akamaihd.net
 0.0.0.0 cgicounter.onlinehome.de
 0.0.0.0 collector.ozeex.com
-0.0.0.0 collector.rn.de
 0.0.0.0 com.econa.com
 0.0.0.0 counter.1i.kz
 0.0.0.0 counter.blogoscoop.net
@@ -335,7 +334,6 @@
 0.0.0.0 mtag.mman.kr
 0.0.0.0 ngc1.nsm-corp.com
 0.0.0.0 performanceplay.co.kr
-0.0.0.0 pxl.retaku.net
 0.0.0.0 realtime-profiling.datarize.ai
 0.0.0.0 saluton.cizion.com
 0.0.0.0 sas.nsm-corp.com
@@ -465,10 +463,10 @@
 0.0.0.0 ctx.citiservi.es
 0.0.0.0 datanoticias.prisasd.com
 0.0.0.0 g-stats.openhost.es
+0.0.0.0 madrid.report.botm.transparentedge.io
 0.0.0.0 mat.socy.es
 0.0.0.0 mtm.qdqmedia.com
 0.0.0.0 pub.servidoresge.com
-0.0.0.0 report.botm.transparentedge.io
 0.0.0.0 rt.cdnmedia.tv
 0.0.0.0 sp.vtex.com
 0.0.0.0 stats.administrarweb.es
@@ -497,7 +495,6 @@
 0.0.0.0 tracker.prom.ua
 0.0.0.0 webvitals.luxnet.ua
 0.0.0.0 analytics.yomedia.vn
-0.0.0.0 countervov.emitech.vn
 0.0.0.0 f-emc.ngsp.gov.vn
 0.0.0.0 px.dmp.zaloapp.com
 0.0.0.0 st-a.cdp.asia
