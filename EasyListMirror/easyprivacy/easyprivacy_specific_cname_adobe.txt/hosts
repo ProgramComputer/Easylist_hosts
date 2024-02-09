@@ -1428,7 +1428,6 @@
 0.0.0.0 ecn-analytics-nssl.emc.com
 0.0.0.0 ecn-analytics.emc.com
 0.0.0.0 ecu.hagerty.com
-0.0.0.0 edge.adobedc.net
 0.0.0.0 edge.afco.com
 0.0.0.0 edge.bigbrothercanada.ca
 0.0.0.0 edge.bridgetrusttitle.com
@@ -6768,7 +6767,6 @@
 0.0.0.0 smetrics.ralphlauren.com.my
 0.0.0.0 smetrics.ralphlauren.com.sg
 0.0.0.0 smetrics.ralphlauren.com.tw
-0.0.0.0 smetrics.ralphlauren.com
 0.0.0.0 smetrics.ralphlauren.de
 0.0.0.0 smetrics.ralphlauren.es
 0.0.0.0 smetrics.ralphlauren.eu
@@ -9221,8 +9219,6 @@
 0.0.0.0 target.monaco.pwc.fr
 0.0.0.0 target.mtu-solutions.com
 0.0.0.0 target.myhealthtoolkit.com
-0.0.0.0 target.nationwide.com
-0.0.0.0 target.nejm.org
 0.0.0.0 target.netapp.com
 0.0.0.0 target.newark.com
 0.0.0.0 target.nfm.com
