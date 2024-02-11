@@ -270,7 +270,6 @@
 0.0.0.0 adobeanalytics.easi.com
 0.0.0.0 adobeanalytics.geico.com
 0.0.0.0 adobeanalytics.gettinghired.com
-0.0.0.0 adobeanalytics.girlscouts.org
 0.0.0.0 adobeanalytics.medline.com
 0.0.0.0 adobeanalytics.mlaglobal.com
 0.0.0.0 adobeanalytics.populusgroup.com
@@ -1745,7 +1744,6 @@
 0.0.0.0 mdws.sdcu.com
 0.0.0.0 mdws.shellcu.com
 0.0.0.0 mdws.southwestcu.com
-0.0.0.0 mdws.sprucecu.bc.ca
 0.0.0.0 mdws.stellamariscreditu.com
 0.0.0.0 mdws.stridecu.ca
 0.0.0.0 mdws.sudburycu.com
@@ -3313,7 +3311,6 @@
 0.0.0.0 metrix.avon.uk.com
 0.0.0.0 metrix.publix.com
 0.0.0.0 metrix.youravon.com
-0.0.0.0 minerva.healthcommunities.com
 0.0.0.0 mix-omniture.rbs.com
 0.0.0.0 mixomniture.rbs.com
 0.0.0.0 mktg.aa.f5.com
@@ -4246,7 +4243,6 @@
 0.0.0.0 sanalytics.verizonenterprise.com
 0.0.0.0 sanalytics.verizonwireless.com
 0.0.0.0 sanalytics.visible.com
-0.0.0.0 sanalytics.warnermediasales.co.uk
 0.0.0.0 sanalytics.warnertv.de
 0.0.0.0 sanalytics.warnertv.fr
 0.0.0.0 sanalytics.warnertv.pl
@@ -4282,8 +4278,6 @@
 0.0.0.0 sanl.footlocker.pl
 0.0.0.0 sanl.footlocker.pt
 0.0.0.0 sanl.footlocker.se
-0.0.0.0 sanl.sidestepstore.be
-0.0.0.0 sanl.sidestepstore.es
 0.0.0.0 sanl.six02.com
 0.0.0.0 sanmet.originenergy.com.au
 0.0.0.0 sappmetrics.sprint.com
@@ -6143,7 +6137,6 @@
 0.0.0.0 smetrics.maplesoft.com
 0.0.0.0 smetrics.marathonthegame.com
 0.0.0.0 smetrics.marcus.com
-0.0.0.0 smetrics.maritimeintelligence.informa.com
 0.0.0.0 smetrics.markandgraham.ca
 0.0.0.0 smetrics.markandgraham.com
 0.0.0.0 smetrics.markantalo.fi
@@ -6604,7 +6597,6 @@
 0.0.0.0 smetrics.pflege-onkologie.de
 0.0.0.0 smetrics.pgford.ca
 0.0.0.0 smetrics.pgi.com
-0.0.0.0 smetrics.pharmaintelligence.informa.com
 0.0.0.0 smetrics.phesgo.com
 0.0.0.0 smetrics.phoenix.edu
 0.0.0.0 smetrics.phoenixinwest.de
@@ -8431,7 +8423,6 @@
 0.0.0.0 sstats.paloaltonetworks.com
 0.0.0.0 sstats.paymypremiums.com
 0.0.0.0 sstats.paypal-metrics.com
-0.0.0.0 sstats.perficientdigital.com
 0.0.0.0 sstats.pitchfork.com
 0.0.0.0 sstats.portauthorityclothing.com
 0.0.0.0 sstats.postechnologygroup.com
@@ -8945,7 +8936,6 @@
 0.0.0.0 sw88.espnplayer.com
 0.0.0.0 sw88.foxtv.es
 0.0.0.0 sw88.foxtv.pt
-0.0.0.0 sw88.foxtv.rs
 0.0.0.0 sw88.freeform.com
 0.0.0.0 sw88.fxchannel.pl
 0.0.0.0 sw88.fxnetworks.com
