@@ -63,6 +63,7 @@
 0.0.0.0 alt63.chimeratool.com
 0.0.0.0 api.140proof.com
 0.0.0.0 api.bitp.it
+0.0.0.0 api.localadswidget.com
 0.0.0.0 apps.media-lab.ai
 0.0.0.0 award.sitekeuring.net
 0.0.0.0 banners.livepartners.com
@@ -79,6 +80,7 @@
 0.0.0.0 campaigns.williamhill.com
 0.0.0.0 cdn.ad.page
 0.0.0.0 cdn.ads.tapzin.com
+0.0.0.0 cdn.wt-api.top
 0.0.0.0 cdn22904910.ahacdn.me
 0.0.0.0 clarity.abacast.com
 0.0.0.0 cloud.setupad.com
@@ -112,8 +114,10 @@
 0.0.0.0 js.phoenixmanga.com
 0.0.0.0 k8s-adserver-adserver-4b35ec6a1d-815734624.us-east-1.elb.amazonaws.com
 0.0.0.0 karma.mdpcdn.com
+0.0.0.0 l.js-assets.cloud
 0.0.0.0 link.link.ru
 0.0.0.0 linkx.ix.tc
+0.0.0.0 load.365analytics.xyz
 0.0.0.0 magictag.digislots.in
 0.0.0.0 marketing.888.com
 0.0.0.0 mbid.marfeelrev.com
@@ -122,6 +126,7 @@
 0.0.0.0 monetize-static.viralize.tv
 0.0.0.0 p.smartertravel.com
 0.0.0.0 pacontainer.s3.amazonaws.com
+0.0.0.0 page.24supportkit.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 paicdn.privateapi.click
 0.0.0.0 partner-app.softwareselect.com
@@ -149,6 +154,7 @@
 0.0.0.0 squirrels.getsquirrel.co
 0.0.0.0 srv.dynamicyield.com
 0.0.0.0 srv.tunefindforfans.com
+0.0.0.0 streaming.jsonmediapacks.com
 0.0.0.0 supply.upjers.com
 0.0.0.0 syndicate.payloadz.com
 0.0.0.0 tag.regieci.com
