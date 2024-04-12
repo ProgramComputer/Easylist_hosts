@@ -287,6 +287,7 @@
 0.0.0.0 loglady.kiwi.com
 0.0.0.0 logs.hotstar.com
 0.0.0.0 logs.naukri.com
+0.0.0.0 logs.netflix.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 ma.redhat.com
 0.0.0.0 marketing.alibaba.com
@@ -351,6 +352,7 @@
 0.0.0.0 pixel.tuko.co.ke
 0.0.0.0 pixelzirkus.gameforge.com
 0.0.0.0 pixiedust.buzzfeed.com
+0.0.0.0 pl.letsblock.it
 0.0.0.0 plausible.bots.gg
 0.0.0.0 plausible.dragonfru.it
 0.0.0.0 plausible.omgapi.org
