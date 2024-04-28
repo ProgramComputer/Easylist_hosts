@@ -380,7 +380,6 @@
 0.0.0.0 event-service.letslinc.com
 0.0.0.0 event-stream.spot.im
 0.0.0.0 event.api.drift.com
-0.0.0.0 event.getblue.io
 0.0.0.0 event.instiengage.com
 0.0.0.0 event.syndigo.cloud
 0.0.0.0 event.webcollage.net
@@ -494,6 +493,7 @@
 0.0.0.0 invite.leanlab.co
 0.0.0.0 invitejs.trustpilot.com
 0.0.0.0 ip.lovely-app.com
+0.0.0.0 ip.momentummedia.com.au
 0.0.0.0 iq.sixaxisllc.com
 0.0.0.0 jas.indeednps.com
 0.0.0.0 javascriptcounter.appspot.com
@@ -1134,6 +1134,7 @@
 0.0.0.0 d1vg5xiq7qffdj.cloudfront.net
 0.0.0.0 d1wix2gc2cgqis.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
+0.0.0.0 d1z3r0i09bwium.cloudfront.net
 0.0.0.0 d1z9vm58yath60.cloudfront.net
 0.0.0.0 d20kffh39acpue.cloudfront.net
 0.0.0.0 d21o24qxwf7uku.cloudfront.net
