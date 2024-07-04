@@ -56,7 +56,6 @@
 0.0.0.0 bn.voyage-prive.com
 0.0.0.0 bpe2.destinia.co.il
 0.0.0.0 bum7.bymycar.fr
-0.0.0.0 bvz5.destinia.com.tr
 0.0.0.0 bwj4.hrhibiza.com
 0.0.0.0 c0i.ckoi.com
 0.0.0.0 c0p.cepsum.umontreal.ca
@@ -64,12 +63,12 @@
 0.0.0.0 ca.clubavantages.net
 0.0.0.0 cbl6.destinia.gt
 0.0.0.0 cc.conforama.es
+0.0.0.0 cc.conforama.pt
 0.0.0.0 cf.campagnes-france.com
 0.0.0.0 ch.credithypo.com
 0.0.0.0 ch0p.darty.com
 0.0.0.0 cls7.theushuaiaexperience.com
 0.0.0.0 cpgo.avatacar.com
-0.0.0.0 cph.credit-pret-hypothecaire.com
 0.0.0.0 cse3.chausport.com
 0.0.0.0 csm.magnetintell.com
 0.0.0.0 csv4.ebs-paris.fr
@@ -77,7 +76,6 @@
 0.0.0.0 ctp1.bforbank.com
 0.0.0.0 cvi6.destinia.qa
 0.0.0.0 cyf9.destinia.cl
-0.0.0.0 d0f.le-dauphin.com
 0.0.0.0 d2u.dauphinquebec.com
 0.0.0.0 dbj.quebecregion.com
 0.0.0.0 deut1.fdj.fr
@@ -90,7 +88,6 @@
 0.0.0.0 dw0c.sfr.fr
 0.0.0.0 dw7u.hotelsbarriere.com
 0.0.0.0 dxe2.heip.fr
-0.0.0.0 ea.access-moto.com
 0.0.0.0 ea.armandthiery.fr
 0.0.0.0 ea.assuronline.com
 0.0.0.0 ea.auchantelecom.fr
@@ -106,7 +103,6 @@
 0.0.0.0 ea.ciblo.net
 0.0.0.0 ea.coffrefortplus.com
 0.0.0.0 ea.dcshoes-europe.com
-0.0.0.0 ea.deguisetoi.fr
 0.0.0.0 ea.devred.com
 0.0.0.0 ea.diamant-unique.com
 0.0.0.0 ea.easyvoyage.com
@@ -134,7 +130,6 @@
 0.0.0.0 ea.labelhabitation.com
 0.0.0.0 ea.lafrancedunordausud.fr
 0.0.0.0 ea.laredoute.pt
-0.0.0.0 ea.lepelican.fr
 0.0.0.0 ea.leskidunordausud.fr
 0.0.0.0 ea.lespagnedunordausud.fr
 0.0.0.0 ea.megustaescribir.com
@@ -237,8 +232,6 @@
 0.0.0.0 fbu8.montecarlosbm.com
 0.0.0.0 fbu8.montecarloseasonalsale.com
 0.0.0.0 fbu8.ticket-online.montecarlolive.com
-0.0.0.0 fec1.optimhome.com
-0.0.0.0 fek1.fnactickets.com
 0.0.0.0 fkwc.sfr.fr
 0.0.0.0 fl5dpe.oui.sncf
 0.0.0.0 fma7.aegon.es
@@ -265,7 +258,6 @@
 0.0.0.0 hby7.destinia.it
 0.0.0.0 hde1.repentignychevrolet.com
 0.0.0.0 hgf4.zanzicar.fr
-0.0.0.0 hk2d.tourismemauricie.com
 0.0.0.0 hkj8.evobanco.com
 0.0.0.0 idg1.idgarages.com
 0.0.0.0 igc0.destinia.at
@@ -294,6 +286,7 @@
 0.0.0.0 leo1.leon-de-bruxelles.fr
 0.0.0.0 let1.devialet.com
 0.0.0.0 lio8.destinia.com.pa
+0.0.0.0 ljb0.assuronline.com
 0.0.0.0 lp.to-lipton.com
 0.0.0.0 lrp7.carrefour-banque.fr
 0.0.0.0 lsv5.belambra.fr
@@ -319,6 +312,7 @@
 0.0.0.0 msz3.destinia.cn
 0.0.0.0 mud4.destinia.com.eg
 0.0.0.0 mva1.maeva.com
+0.0.0.0 mwf7.montecarlowellness.com
 0.0.0.0 ncx2.voyage-prive.it
 0.0.0.0 net1.netski.com
 0.0.0.0 netc.sfr.fr
@@ -335,6 +329,7 @@
 0.0.0.0 o68c.sfr.fr
 0.0.0.0 oae6.carrefour-banque.fr
 0.0.0.0 oal2.destinia.co.uk
+0.0.0.0 oek7.april-moto.com
 0.0.0.0 ogb2.biopur-leanature.fr
 0.0.0.0 ogb2.biovie.com
 0.0.0.0 ogb2.eauthermalejonzac.com
@@ -356,13 +351,11 @@
 0.0.0.0 pbox.no.photobox.com
 0.0.0.0 pbox.photobox.at
 0.0.0.0 pbox.photobox.be
-0.0.0.0 pbox.photobox.ch
 0.0.0.0 pbox.photobox.co.nz
 0.0.0.0 pbox.photobox.co.uk
 0.0.0.0 pbox.photobox.com.au
 0.0.0.0 pbox.photobox.de
 0.0.0.0 pbox.photobox.dk
-0.0.0.0 pbox.photobox.es
 0.0.0.0 pbox.photobox.fr
 0.0.0.0 pbox.photobox.ie
 0.0.0.0 pbox.photobox.it
@@ -467,12 +460,7 @@
 0.0.0.0 vfo.voyage-prive.co.uk
 0.0.0.0 vfo4.carrefour-banque.fr
 0.0.0.0 vgo.vegaoo.com
-0.0.0.0 vgo.vegaoo.de
-0.0.0.0 vgo.vegaoo.es
-0.0.0.0 vgo.vegaoo.it
-0.0.0.0 vgo.vegaoo.nl
 0.0.0.0 vgo.vegaoo.pt
-0.0.0.0 vgo.vegaooparty.com
 0.0.0.0 vgo.vegaoopro.com
 0.0.0.0 vi.adviso.ca
 0.0.0.0 vnl1.voyage-prive.nl
@@ -486,6 +474,8 @@
 0.0.0.0 wnd2.destinia.cat
 0.0.0.0 wph2.destinia.us
 0.0.0.0 www.dataholics.tech
+0.0.0.0 www.fasttrack.fr
+0.0.0.0 www.fasttracker.fr
 0.0.0.0 xay5o.toscane-boutique.fr
 0.0.0.0 xjq5.belambra.be
 0.0.0.0 xuc.monteleone.fr
@@ -496,7 +486,6 @@
 0.0.0.0 yoc.younited-credit.com
 0.0.0.0 ysl3.destinia.ec
 0.0.0.0 yst4.muchoviaje.com
-0.0.0.0 yst4.torviajes.com
 0.0.0.0 yyi7.consobaby.de
 0.0.0.0 zdx5.destinia.pe
 0.0.0.0 zkc5.fleurancenature.fr

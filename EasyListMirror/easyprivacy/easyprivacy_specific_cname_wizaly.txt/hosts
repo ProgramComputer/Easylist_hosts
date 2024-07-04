@@ -42,7 +42,6 @@
 0.0.0.0 tk.airfrance.mq
 0.0.0.0 tk.airfrance.mu
 0.0.0.0 tk.airfrance.my
-0.0.0.0 tk.airfrance.ne
 0.0.0.0 tk.airfrance.ng
 0.0.0.0 tk.airfrance.nl
 0.0.0.0 tk.airfrance.pa
@@ -57,6 +56,7 @@
 0.0.0.0 tk.airfrance.se
 0.0.0.0 tk.airfrance.sg
 0.0.0.0 tk.airfrance.sk
+0.0.0.0 tk.airfrance.sn
 0.0.0.0 tk.airfrance.tn
 0.0.0.0 tk.airfrance.ua
 0.0.0.0 tk.airfrance.us
@@ -70,6 +70,10 @@
 0.0.0.0 tk.biovea.com
 0.0.0.0 tk.blancheporte.be
 0.0.0.0 tk.blancheporte.fr
+0.0.0.0 tk.boutique.capital.fr
+0.0.0.0 tk.boutique.geo.fr
+0.0.0.0 tk.boutique.hbrfrance.fr
+0.0.0.0 tk.boutique.voici.fr
 0.0.0.0 tk.bricoprive.com
 0.0.0.0 tk.bullebleue.fr
 0.0.0.0 tk.cadeaux.com
@@ -90,6 +94,7 @@
 0.0.0.0 tk.gustaveroussy.fr
 0.0.0.0 tk.healthwarehouse.com
 0.0.0.0 tk.hypnia.co.uk
+0.0.0.0 tk.hypnia.de
 0.0.0.0 tk.hypnia.es
 0.0.0.0 tk.hypnia.fr
 0.0.0.0 tk.hypnia.nl
@@ -140,6 +145,7 @@
 0.0.0.0 tk.svsound.com
 0.0.0.0 tk.teleshopping.fr
 0.0.0.0 tk.tikamoon.at
+0.0.0.0 tk.tikamoon.be
 0.0.0.0 tk.tikamoon.ch
 0.0.0.0 tk.tikamoon.co.uk
 0.0.0.0 tk.tikamoon.com

@@ -76,6 +76,8 @@
 0.0.0.0 tr.asp10ai.espmp-nifr.net
 0.0.0.0 tr.asp10ap.espmp-nifr.net
 0.0.0.0 tr.asp10ar.espmp-cufr.net
+0.0.0.0 tr.asp10b3.espmp-agfr.net
+0.0.0.0 tr.asp10bq.espmp-nifr.net
 0.0.0.0 tr.asp10bs.espmp-aufr.net
 0.0.0.0 tr.asp10c8.espmp-agfr.net
 0.0.0.0 tr.asp10cc.espmp-nifr.net
@@ -135,7 +137,6 @@
 0.0.0.0 tr.batiweb.co
 0.0.0.0 tr.bel-pros.be
 0.0.0.0 tr.bern.espmp-nifr.net
-0.0.0.0 tr.bgl.premium-benefits.lu
 0.0.0.0 tr.bienvenue.envie-de-bien-manger.com
 0.0.0.0 tr.bizzquotes.co.uk
 0.0.0.0 tr.bobo.espmp-cufr.net
@@ -167,6 +168,7 @@
 0.0.0.0 tr.cacf-acq.ipsos-surveys.com
 0.0.0.0 tr.cacf.ipsos-surveys.com
 0.0.0.0 tr.camara.eu.com
+0.0.0.0 tr.capu.espmp-agfr.net
 0.0.0.0 tr.carl.espmp-cufr.net
 0.0.0.0 tr.cart02d.espmp-agfr.net
 0.0.0.0 tr.carte.lcl.fr
@@ -178,6 +180,7 @@
 0.0.0.0 tr.cdiscount.3wregie.com
 0.0.0.0 tr.ceeregion.moethennessy.com
 0.0.0.0 tr.christmas.petit-bateau.com
+0.0.0.0 tr.chronodrive.com
 0.0.0.0 tr.ciblexo.fr
 0.0.0.0 tr.cifa.espmp-nifr.net
 0.0.0.0 tr.cifa02b.espmp-aufr.net
@@ -199,16 +202,18 @@
 0.0.0.0 tr.clients.gemy.fr
 0.0.0.0 tr.clients.idaia.group
 0.0.0.0 tr.cnaf.espmp-nifr.net
+0.0.0.0 tr.cobranca.younited-credit.com
 0.0.0.0 tr.cogedim.espmp-agfr.net
 0.0.0.0 tr.collectif.groupe-vyv.fr
 0.0.0.0 tr.com-clients.sfr.fr
 0.0.0.0 tr.com-parc.sfr.fr
 0.0.0.0 tr.com-red.sfr.fr
 0.0.0.0 tr.com-web.sfr.fr
+0.0.0.0 tr.com.santiane.fr
 0.0.0.0 tr.com.sfr.fr
 0.0.0.0 tr.combca.fr
 0.0.0.0 tr.commande.location.boulanger.com
-0.0.0.0 tr.commint.groupe.chapsvision.com
+0.0.0.0 tr.commercial.boursobank.info
 0.0.0.0 tr.communaute.caradisiac.com
 0.0.0.0 tr.communautes-mediametrie.fr
 0.0.0.0 tr.communication.alticemedia.com
@@ -254,12 +259,14 @@
 0.0.0.0 tr.contrat.lokeo.fr
 0.0.0.0 tr.contrats.cetelem.fr
 0.0.0.0 tr.contrats.cofinoga.fr
+0.0.0.0 tr.contrats.domofinance.fr
 0.0.0.0 tr.corporate.moethennessy.com
 0.0.0.0 tr.courriel.mae.fr
 0.0.0.0 tr.courriel.ouestnormandie.cci.fr
 0.0.0.0 tr.courrier.charentelibre.fr
 0.0.0.0 tr.courrier.larepubliquedespyrenees.fr
 0.0.0.0 tr.courrier.sudouest.fr
+0.0.0.0 tr.crc.henner.com
 0.0.0.0 tr.credito.universo.pt
 0.0.0.0 tr.crtl.espmp-aufr.net
 0.0.0.0 tr.customer-solutions.np6.com
@@ -292,6 +299,7 @@
 0.0.0.0 tr.devisminute-siteecommerce.com
 0.0.0.0 tr.devisminute-weber.com
 0.0.0.0 tr.devize-companeo.ro
+0.0.0.0 tr.devizul-meu.ro
 0.0.0.0 tr.digitalacademy.np6.com
 0.0.0.0 tr.digitaldigest.lvmh.com
 0.0.0.0 tr.directferries.com
@@ -331,10 +339,10 @@
 0.0.0.0 tr.email.directindustry.com
 0.0.0.0 tr.email.distributor-expo.com
 0.0.0.0 tr.email.gap-france.fr
+0.0.0.0 tr.email.grandjeupaysgourmand.fr
 0.0.0.0 tr.email.harmonie-mutuelle.fr
 0.0.0.0 tr.email.infocredit.orangebank.fr
 0.0.0.0 tr.email.janedeboy.com
-0.0.0.0 tr.email.land-rover-experience.fr
 0.0.0.0 tr.email.maisonfoody.com
 0.0.0.0 tr.email.medicalexpo.com
 0.0.0.0 tr.email.mnpaf.fr
@@ -357,6 +365,7 @@
 0.0.0.0 tr.emailing.canalplus-caledonie.com
 0.0.0.0 tr.emailing.canalplus-caraibes.com
 0.0.0.0 tr.emailing.canalplus-maurice.com
+0.0.0.0 tr.emailing.canalplus-polynesie.com
 0.0.0.0 tr.emailing.canalplus-reunion.com
 0.0.0.0 tr.emailing.canalplus.ch
 0.0.0.0 tr.emailing.canalplus.fr
@@ -364,12 +373,12 @@
 0.0.0.0 tr.emailing.canalsat.ch
 0.0.0.0 tr.emailing.cifea-mkg.com
 0.0.0.0 tr.emailing.cnam-paysdelaloire.fr
-0.0.0.0 tr.emailing.coe.int
 0.0.0.0 tr.emailing.cstar.fr
 0.0.0.0 tr.emailing.detours.canal.fr
 0.0.0.0 tr.emailing.grassavoye.com
 0.0.0.0 tr.emailing.pogioclub.be
 0.0.0.0 tr.emailing.studiocanal.com
+0.0.0.0 tr.emailing.tvcaraibes.tv
 0.0.0.0 tr.emailium.fr
 0.0.0.0 tr.emc.moethennessy.com
 0.0.0.0 tr.enedis-infos.fr
@@ -396,9 +405,7 @@
 0.0.0.0 tr.forum.veuveclicquot.fr
 0.0.0.0 tr.fr.pro.accor.com
 0.0.0.0 tr.france.plimsoll.fr
-0.0.0.0 tr.french-tax-compliance-booking.com
 0.0.0.0 tr.futurecommerce.moethennessy.com
-0.0.0.0 tr.gdfsuez-globalenergy.info
 0.0.0.0 tr.gen.espmp-agfr.net
 0.0.0.0 tr.gestion.cafineo.fr
 0.0.0.0 tr.gestion.cetelem.fr
@@ -426,7 +433,6 @@
 0.0.0.0 tr.holidaycottages.co.uk
 0.0.0.0 tr.impayes.filiassur.com
 0.0.0.0 tr.info-btob-leaders.com
-0.0.0.0 tr.info-carte.fr
 0.0.0.0 tr.info-companeo.be
 0.0.0.0 tr.info-fr.assurant.com
 0.0.0.0 tr.info-jeux.paris.fr
@@ -487,10 +493,10 @@
 0.0.0.0 tr.info.ph-bpifrance.fr
 0.0.0.0 tr.info.phsolidaire-bpifrance.fr
 0.0.0.0 tr.info.pret-bpifrance.fr
-0.0.0.0 tr.info.pret-participatif.fr
 0.0.0.0 tr.info.pretflashtpe-bpifrance.fr
 0.0.0.0 tr.info.projeo-finance.fr
 0.0.0.0 tr.info.promoneuve.fr
+0.0.0.0 tr.info.rebond-bpifrance.fr
 0.0.0.0 tr.info.reunica.com
 0.0.0.0 tr.info.rouen.aeroport.fr
 0.0.0.0 tr.info.rouen.cci.fr
@@ -507,6 +513,7 @@
 0.0.0.0 tr.information.labelleadresse.com
 0.0.0.0 tr.information.lacollection-airfrance.be
 0.0.0.0 tr.information.lacollection-airfrance.ch
+0.0.0.0 tr.information.lacollection-airfrance.co.uk
 0.0.0.0 tr.information.lacollection-airfrance.fr
 0.0.0.0 tr.information.leclubtravel.fr
 0.0.0.0 tr.information.perfectstay.com
@@ -518,11 +525,11 @@
 0.0.0.0 tr.infos.afpa.fr
 0.0.0.0 tr.infos.allianz-trade.com
 0.0.0.0 tr.infos.ariase.com
+0.0.0.0 tr.infos.enerplus-bordeaux.fr
 0.0.0.0 tr.infos.fongecifcentre.com
 0.0.0.0 tr.infos.gazdebordeaux.fr
 0.0.0.0 tr.infos.lacarte.demenagez-moi.com
 0.0.0.0 tr.infos.lettre-resiliation.com
-0.0.0.0 tr.infos.mailrungis.com
 0.0.0.0 tr.infos.odalys-vacances.com
 0.0.0.0 tr.inspiration.culture-data.fr
 0.0.0.0 tr.interieur.cotemaison.fr
@@ -530,12 +537,14 @@
 0.0.0.0 tr.invest.younited-credit.com
 0.0.0.0 tr.invitation-mesdessous.fr
 0.0.0.0 tr.invitation.perfectstay.com
+0.0.0.0 tr.ipsos-surveys.com
 0.0.0.0 tr.ispaconsulting.com
 0.0.0.0 tr.italia.plimsoll.it
 0.0.0.0 tr.jend.espmp-pofr.net
 0.0.0.0 tr.jesuis.enformedelotus.com
 0.0.0.0 tr.jevoteenligne.fr
 0.0.0.0 tr.jimb.espmp-cufr.net
+0.0.0.0 tr.jkcd.espmp-cufr.net
 0.0.0.0 tr.jkcd.espmp-pofr.net
 0.0.0.0 tr.jkyg.espmp-cufr.net
 0.0.0.0 tr.kang.espmp-cufr.net
@@ -549,6 +558,7 @@
 0.0.0.0 tr.kpyn02f.espmp-cufr.net
 0.0.0.0 tr.kpyn059.espmp-pofr.net
 0.0.0.0 tr.krus.espmp-agfr.net
+0.0.0.0 tr.lachaiselongue.fr
 0.0.0.0 tr.landrover.compte-financial-services.fr
 0.0.0.0 tr.laprairie.ifop.com
 0.0.0.0 tr.lbar.espmp-agfr.net
@@ -580,6 +590,7 @@
 0.0.0.0 tr.mail.koregraf.com
 0.0.0.0 tr.mail.mdbp.fr
 0.0.0.0 tr.mail.moncoupdepouce.com
+0.0.0.0 tr.mail.perial.info
 0.0.0.0 tr.mail.primevere.com
 0.0.0.0 tr.mail.satisfactory.fr
 0.0.0.0 tr.mail.solocal.com
@@ -610,9 +621,9 @@
 0.0.0.0 tr.marketing.younited-credit.pt
 0.0.0.0 tr.marketingdisruption.co.uk
 0.0.0.0 tr.mart.espmp-agfr.net
-0.0.0.0 tr.mattressman.co.uk
 0.0.0.0 tr.mcom03b.espmp-aufr.net
 0.0.0.0 tr.mcom04p.espmp-aufr.net
+0.0.0.0 tr.media.harmonie-sante.fr
 0.0.0.0 tr.melhores-propostas.pt
 0.0.0.0 tr.membres.boursorama.info
 0.0.0.0 tr.mep.enkiapp.io
@@ -625,6 +636,7 @@
 0.0.0.0 tr.mhist.moethennessy.com
 0.0.0.0 tr.mhlab78.moethennessy.com
 0.0.0.0 tr.mhusa-trade-engagement.moethennessy.com
+0.0.0.0 tr.mhwinesestates.moethennessy.com
 0.0.0.0 tr.mijn-superaanbieding.be
 0.0.0.0 tr.mijnaanbieding.renowizz.be
 0.0.0.0 tr.mika.espmp-nifr.net
@@ -658,6 +670,7 @@
 0.0.0.0 tr.new.offres-cartegie.fr
 0.0.0.0 tr.news-abweb.com
 0.0.0.0 tr.news-chocolat.com
+0.0.0.0 tr.news-companeo.be
 0.0.0.0 tr.news-companeo.cl
 0.0.0.0 tr.news-companeo.com.br
 0.0.0.0 tr.news-companeo.fr
@@ -668,15 +681,16 @@
 0.0.0.0 tr.news-dfc.sciences-po.fr
 0.0.0.0 tr.news-fr.perfectstay.com
 0.0.0.0 tr.news-ingerop.com
+0.0.0.0 tr.news-longchamp.com
 0.0.0.0 tr.news.a-t.fr
 0.0.0.0 tr.news.a2micile.com
 0.0.0.0 tr.news.accessmastertour.com
 0.0.0.0 tr.news.accessmbatour.com
 0.0.0.0 tr.news.actu-man.com
+0.0.0.0 tr.news.ailleurs.com
 0.0.0.0 tr.news.alcyon.com
 0.0.0.0 tr.news.alibabuy.com
 0.0.0.0 tr.news.alinea.com
-0.0.0.0 tr.news.alinea.fr
 0.0.0.0 tr.news.allopneus.com
 0.0.0.0 tr.news.aramisauto.com
 0.0.0.0 tr.news.assuragency.net
@@ -698,6 +712,7 @@
 0.0.0.0 tr.news.clicochic.com
 0.0.0.0 tr.news.companeo.es
 0.0.0.0 tr.news.companeo.ro
+0.0.0.0 tr.news.corsicaferries.com
 0.0.0.0 tr.news.corsicalinea.com
 0.0.0.0 tr.news.cotemaison.fr
 0.0.0.0 tr.news.cporadio.tv
@@ -727,7 +742,6 @@
 0.0.0.0 tr.news.externis.com
 0.0.0.0 tr.news.extrabook.com
 0.0.0.0 tr.news.flandrintechnologies.com
-0.0.0.0 tr.news.frame.fr
 0.0.0.0 tr.news.franceloc.fr
 0.0.0.0 tr.news.futuramedia.fr
 0.0.0.0 tr.news.geantcasino.fr
@@ -746,7 +760,6 @@
 0.0.0.0 tr.news.interforum.fr
 0.0.0.0 tr.news.itancia.com
 0.0.0.0 tr.news.jautomatise.com
-0.0.0.0 tr.news.kalivet.com
 0.0.0.0 tr.news.kpmg-avocats.fr
 0.0.0.0 tr.news.kpmg.fr
 0.0.0.0 tr.news.kpmgacademy.fr
@@ -798,7 +811,6 @@
 0.0.0.0 tr.news.prosfora-mou.gr
 0.0.0.0 tr.news.receiveyourquote.co.uk
 0.0.0.0 tr.news.retailglobalsolutions.com
-0.0.0.0 tr.news.roadzila.com
 0.0.0.0 tr.news.seine-estuaire.cci.fr
 0.0.0.0 tr.news.smartdeals-transavia-fr.com
 0.0.0.0 tr.news.smartdealstransavia-fr.com
@@ -828,9 +840,8 @@
 0.0.0.0 tr.news2pjms.fr
 0.0.0.0 tr.news5.cdiscount.com
 0.0.0.0 tr.news6.cdiscount.com
-0.0.0.0 tr.newsletter-habitat.com
 0.0.0.0 tr.newsletter-stressless.com
-0.0.0.0 tr.newsletter-wonderbox.com
+0.0.0.0 tr.newsletter.10h01.fr
 0.0.0.0 tr.newsletter.1664france.fr
 0.0.0.0 tr.newsletter.1oag.com
 0.0.0.0 tr.newsletter.actalians.fr
@@ -842,6 +853,7 @@
 0.0.0.0 tr.newsletter.bouygues-construction.com
 0.0.0.0 tr.newsletter.bouygues.com
 0.0.0.0 tr.newsletter.capdecision.fr
+0.0.0.0 tr.newsletter.chandon.com
 0.0.0.0 tr.newsletter.cuisine-plus.tv
 0.0.0.0 tr.newsletter.ecig-privee.fr
 0.0.0.0 tr.newsletter.erenumerique.fr
@@ -850,6 +862,7 @@
 0.0.0.0 tr.newsletter.huilesdolive.fr
 0.0.0.0 tr.newsletter.leocare.eu
 0.0.0.0 tr.newsletter.location.boulanger.com
+0.0.0.0 tr.newsletter.lokeo.fr
 0.0.0.0 tr.newsletter.meilleurmobile.com
 0.0.0.0 tr.newsletter.milleis.fr
 0.0.0.0 tr.newsletter.mixr.net
@@ -868,7 +881,6 @@
 0.0.0.0 tr.newsletters.coedition-contact.fr
 0.0.0.0 tr.newsletters.odalys-vacances.com
 0.0.0.0 tr.newsletters.qapa-interim.fr
-0.0.0.0 tr.newsletters.youmeetings.com
 0.0.0.0 tr.newsmarketing.allopneus.com
 0.0.0.0 tr.nl.2wls.net
 0.0.0.0 tr.nl.ardennes.cci.fr
@@ -886,7 +898,6 @@
 0.0.0.0 tr.notification-gdpr.loisirs-finance.fr
 0.0.0.0 tr.notification-gdpr.norrsken.fr
 0.0.0.0 tr.notification-gdpr.personal-finance-location.bnpparibas
-0.0.0.0 tr.notification-gdpr.sygmabybnpparibas-pf.com
 0.0.0.0 tr.notification.cafineo.fr
 0.0.0.0 tr.notification.cdiscount.com
 0.0.0.0 tr.notification.cetelem.fr
@@ -912,8 +923,8 @@
 0.0.0.0 tr.offresbtoc.engie.fr
 0.0.0.0 tr.offrevip.floa.fr
 0.0.0.0 tr.ojxm.espmp-aufr.net
+0.0.0.0 tr.online.longchamp.com
 0.0.0.0 tr.openinnovation.lvmh.com
-0.0.0.0 tr.operations.butagaz.fr
 0.0.0.0 tr.orange-lease.fr
 0.0.0.0 tr.orcamento-online.pt
 0.0.0.0 tr.orcamentos-companeo.pt
@@ -924,6 +935,7 @@
 0.0.0.0 tr.partenaire.manageo.info
 0.0.0.0 tr.particuliers8.engie.com
 0.0.0.0 tr.partners.younited-credit.it
+0.0.0.0 tr.payment.lvmh.com
 0.0.0.0 tr.phjk.espmp-nifr.net
 0.0.0.0 tr.pixe.espmp-cufr.net
 0.0.0.0 tr.pm.pelhammedia.com
@@ -939,7 +951,7 @@
 0.0.0.0 tr.preventivo.risparmiazienda.it
 0.0.0.0 tr.pro-renov.be
 0.0.0.0 tr.pro.odalys-vacances.com
-0.0.0.0 tr.prog.cinemanivel.fr
+0.0.0.0 tr.pro.residencehappysenior.fr
 0.0.0.0 tr.programme-voyageur-sncf.com
 0.0.0.0 tr.projet.cotemaison.fr
 0.0.0.0 tr.promo.np6.fr
@@ -947,6 +959,7 @@
 0.0.0.0 tr.prosfores-companeo.gr
 0.0.0.0 tr.prosfores-etairias.gr
 0.0.0.0 tr.ps.espmp-agfr.net
+0.0.0.0 tr.psaparts.com
 0.0.0.0 tr.publicisdrugstore.espmp-agfr.net
 0.0.0.0 tr.qualitaetsumfrage.com
 0.0.0.0 tr.qualitaveicolo.com
@@ -971,8 +984,8 @@
 0.0.0.0 tr.reglementaire.emailing.bnpparibas
 0.0.0.0 tr.relation-mediametrie.fr
 0.0.0.0 tr.relation.uneo.fr
-0.0.0.0 tr.remboursement.orange.fr
 0.0.0.0 tr.renowizze.be
+0.0.0.0 tr.republicains-info.org
 0.0.0.0 tr.rh.auchan.com
 0.0.0.0 tr.route-solutiondata.fr
 0.0.0.0 tr.roxi02e.espmp-agfr.net
@@ -1015,6 +1028,7 @@
 0.0.0.0 tr.sort.espmp-nifr.net
 0.0.0.0 tr.souscription.floa.fr
 0.0.0.0 tr.spain.plimsoll.es
+0.0.0.0 tr.sportswear.np6.com
 0.0.0.0 tr.strategie.gouv.fr
 0.0.0.0 tr.suivi-client-edf.com
 0.0.0.0 tr.surveys.np6.com
@@ -1027,6 +1041,7 @@
 0.0.0.0 tr.tonerservices.fr
 0.0.0.0 tr.tourisme.visit-lanarbonnaise.com
 0.0.0.0 tr.tpe.harmonie-mutuelle.fr
+0.0.0.0 tr.tr.bricodepot.com
 0.0.0.0 tr.trafficnews.lyria.com
 0.0.0.0 tr.ujsv.espmp-agfr.net
 0.0.0.0 tr.uk.icicibank.com
@@ -1035,6 +1050,7 @@
 0.0.0.0 tr.update.groupon.be
 0.0.0.0 tr.urfk.espmp-agfr.net
 0.0.0.0 tr.urfk02r.espmp-nifr.net
+0.0.0.0 tr.urfk02t.espmp-agfr.net
 0.0.0.0 tr.urfk02v.espmp-cufr.net
 0.0.0.0 tr.urfk02z.espmp-nifr.net
 0.0.0.0 tr.urfk03c.espmp-nifr.net
@@ -1051,6 +1067,7 @@
 0.0.0.0 tr.urfk057.espmp-aufr.net
 0.0.0.0 tr.urfk05g.espmp-agfr.net
 0.0.0.0 tr.urfk05l.espmp-nifr.net
+0.0.0.0 tr.urfk05o.espmp-pofr.net
 0.0.0.0 tr.urfk06h.espmp-nifr.net
 0.0.0.0 tr.urfk06n.espmp-nifr.net
 0.0.0.0 tr.urfk06o.espmp-agfr.net
@@ -1062,6 +1079,7 @@
 0.0.0.0 tr.urfk080.espmp-agfr.net
 0.0.0.0 tr.urfk08c.espmp-cufr.net
 0.0.0.0 tr.vernede.huilesdolive.fr
+0.0.0.0 tr.vf7n.espmp-agfr.net
 0.0.0.0 tr.videofutur.fr
 0.0.0.0 tr.ville.bordeaux.fr
 0.0.0.0 tr.voeux-wishes.ipsilon-ip.com
@@ -1074,6 +1092,7 @@
 0.0.0.0 tr.welcome.easyvoyage.co.uk
 0.0.0.0 tr.welcome.easyvoyage.com
 0.0.0.0 tr.welcome.easyvoyage.de
+0.0.0.0 tr.welcome.lacollection-airfrance.be
 0.0.0.0 tr.welcome.lacollection-airfrance.ch
 0.0.0.0 tr.welcome.lacollection-airfrance.co.uk
 0.0.0.0 tr.welcome.lacollection-airfrance.de
@@ -1084,6 +1103,7 @@
 0.0.0.0 tr.welcome.perfectstay.com
 0.0.0.0 tr.welcome.smartdeals-transavia-fr.com
 0.0.0.0 tr.welcome.thelist-emirates.fr
+0.0.0.0 tr.welcome.unaoffertaalgiorno.com
 0.0.0.0 tr.welcome.vipmag.fr
 0.0.0.0 tr.wuei.espmp-agfr.net
 0.0.0.0 tr.xlead.digital
@@ -1102,6 +1122,7 @@
 0.0.0.0 tr1.mperf.com
 0.0.0.0 tr1.peugeot-ipsos.com
 0.0.0.0 tr1.psa-surveys.com
+0.0.0.0 tr4.mailperf.com
 0.0.0.0 tr5.mailperf.com
 0.0.0.0 tr5.mperf.com
 0.0.0.0 tr6.mperf.com
