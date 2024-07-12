@@ -384,6 +384,7 @@
 0.0.0.0 tracking.novem.pl
 0.0.0.0 trc.gpcdn.pl
 0.0.0.0 ad-tracker-api.luizalabs.com
+0.0.0.0 ads-collector.luizalabs.com
 0.0.0.0 analytics-coletor-site.ojc.com.br
 0.0.0.0 analytics-stamp.confi.com.vc
 0.0.0.0 analytics.spun.com.br
@@ -513,6 +514,7 @@
 0.0.0.0 stat.matichon.co.th
 0.0.0.0 analitik.bik.gov.tr
 0.0.0.0 analytics.kkb.com.tr
+0.0.0.0 c.keltis.com
 0.0.0.0 collector.wawlabs.com
 0.0.0.0 statistics.daktilo.com
 0.0.0.0 stats.vidyome.com
