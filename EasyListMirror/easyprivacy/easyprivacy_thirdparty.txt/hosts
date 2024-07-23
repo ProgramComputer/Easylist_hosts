@@ -357,7 +357,6 @@
 0.0.0.0 dl.episerver.net
 0.0.0.0 doppler-beacon.cbsivideo.com
 0.0.0.0 doppler-client-events.cbsivideo.com
-0.0.0.0 doppler-config.cbsivideo.com
 0.0.0.0 doppler-reporting.cbsivideo.com
 0.0.0.0 dx.mountain.com
 0.0.0.0 dynamic.ziftsolutions.com
@@ -991,6 +990,7 @@
 0.0.0.0 tracker.myth.dev
 0.0.0.0 tracker.myyschool.xyz
 0.0.0.0 tracker.nitropay.com
+0.0.0.0 tracker.nocodelytics.com
 0.0.0.0 tracker.novage.com.ua
 0.0.0.0 tracker.openwebtorrent.com
 0.0.0.0 tracker.services.vaix.ai
