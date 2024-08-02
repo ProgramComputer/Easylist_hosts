@@ -315,6 +315,7 @@
 0.0.0.0 bravo.israelweather.co.il
 0.0.0.0 cellstats.mako.co.il
 0.0.0.0 ds.haaretz.co.il
+0.0.0.0 services.haaretz.co.il
 0.0.0.0 stats.mako.co.il
 0.0.0.0 adat.borsonline.hu
 0.0.0.0 adat.ingatlanbazar.hu
@@ -455,6 +456,7 @@
 0.0.0.0 stats.teledyski.info
 0.0.0.0 audience-mostread.r7.com
 0.0.0.0 click.uol.com.br
+0.0.0.0 csplog.kwai-pro.com
 0.0.0.0 dejavu.mercadolivre.com.br
 0.0.0.0 dna.uol.com.br
 0.0.0.0 g.bit.pt
@@ -466,6 +468,7 @@
 0.0.0.0 log-ads.r7.com
 0.0.0.0 logger.rm.uol.com.br
 0.0.0.0 logger.uol.com.br
+0.0.0.0 logsdk.kwai-pro.com
 0.0.0.0 matt.mercadolivre.com.br
 0.0.0.0 metrics.uol.com.br
 0.0.0.0 strapi.clickjogos.com.br

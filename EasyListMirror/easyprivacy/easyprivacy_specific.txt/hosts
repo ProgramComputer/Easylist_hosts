@@ -199,6 +199,7 @@
 0.0.0.0 event-api.reverb.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-router.olympics.com
+0.0.0.0 event.platform.autotrader.com.au
 0.0.0.0 event.platform.tunein.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 events-ingestion.services.gorgias.com
@@ -225,6 +226,7 @@
 0.0.0.0 fbo-statistics-collector-tc.is.flippingbook.com
 0.0.0.0 fdt.kraken.com
 0.0.0.0 femetrics.grammarly.io
+0.0.0.0 fgn-plausible.serverable.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fp.measure.office.com
 0.0.0.0 fpa-cdn.adweek.com
@@ -269,15 +271,18 @@
 0.0.0.0 ih.newegg.com
 0.0.0.0 impressions.svc.abillion.com
 0.0.0.0 improve.tempest.com
+0.0.0.0 in.brilliant.org
 0.0.0.0 indmetric.rediff.com
 0.0.0.0 ingest.make.rvohealth.com
 0.0.0.0 ingress.linktr.ee
+0.0.0.0 insights-mxp-cdn.coursecareers.com
 0.0.0.0 intent.cmo.com.au
 0.0.0.0 intent.goodgearguide.com.au
 0.0.0.0 intent.macworld.co.uk
 0.0.0.0 intent.pcworld.idg.com.au
 0.0.0.0 intent.techadvisor.com
 0.0.0.0 internal-analytics.odoo.com
+0.0.0.0 internal-e.posthog.com
 0.0.0.0 intg.snapchat.com
 0.0.0.0 intuitvisitorid.api.intuit.com
 0.0.0.0 ip.cliphunter.com
@@ -439,6 +444,7 @@
 0.0.0.0 saa.insideedition.com
 0.0.0.0 sapphire-api.target.com
 0.0.0.0 search.anonymous.ads.brave.com
+0.0.0.0 services.haaretz.com
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com
 0.0.0.0 sjc.cloud.optable.co
