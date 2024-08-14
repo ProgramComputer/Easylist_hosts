@@ -3,6 +3,7 @@
 0.0.0.0 3p-geo.yahoo.com
 0.0.0.0 3p-udc.yahoo.com
 0.0.0.0 9w2zed1szg.execute-api.us-east-1.amazonaws.com
+0.0.0.0 a.emea01.idio.episerver.net
 0.0.0.0 a.getflowbox.com
 0.0.0.0 a.hcaptcha.com
 0.0.0.0 a.mobify.com
@@ -705,7 +706,6 @@
 0.0.0.0 px.spiceworks.com
 0.0.0.0 pylon.micstatic.com
 0.0.0.0 qubitanalytics.appspot.com
-0.0.0.0 query.petametrics.com
 0.0.0.0 r.skimresources.com
 0.0.0.0 ramp.purch.com
 0.0.0.0 rampjs-cdn.system1.com
