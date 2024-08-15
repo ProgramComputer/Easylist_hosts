@@ -32,7 +32,6 @@
 0.0.0.0 mastertag.q-sis.de
 0.0.0.0 met.vgwort.de
 0.0.0.0 nexxtv-events.servicebus.windows.net
-0.0.0.0 omniture.eaeurope.eu
 0.0.0.0 orbidder.otto.de
 0.0.0.0 owen.prolitteris.ch
 0.0.0.0 pixel.poptok.com
@@ -64,7 +63,6 @@
 0.0.0.0 tracking.emsmobile.de
 0.0.0.0 tracking.gameforge.de
 0.0.0.0 tracking.hannoversche.de
-0.0.0.0 tracking.mindshare.de
 0.0.0.0 tracking.rtl.de
 0.0.0.0 tracking.s24.com
 0.0.0.0 tracking.srv2.de
@@ -74,7 +72,6 @@
 0.0.0.0 trecker.aklamio.com
 0.0.0.0 vtrtl.de
 0.0.0.0 webcounter.goweb.de
-0.0.0.0 wranalytics.wildrocket.io
 0.0.0.0 x.bloggurat.net
 0.0.0.0 zs.dhl.de
 0.0.0.0 abs.proxistore.com
@@ -135,7 +132,6 @@
 0.0.0.0 dt.xfyun.cn
 0.0.0.0 dup.baidustatic.com
 0.0.0.0 eclick.baidu.com
-0.0.0.0 epro.sogou.com
 0.0.0.0 event.tagtoo.co
 0.0.0.0 experiments.sparanoid.net
 0.0.0.0 fourier.taobao.com
@@ -251,7 +247,6 @@
 0.0.0.0 nanostats.nanopress.it
 0.0.0.0 plausible.citynews.ovh
 0.0.0.0 rd.alice.it
-0.0.0.0 sem.triboomedia.it
 0.0.0.0 stat.acca.it
 0.0.0.0 stat.valica.it
 0.0.0.0 stats.itsol.it
@@ -275,7 +270,6 @@
 0.0.0.0 analytics.contents.by-fw.jp
 0.0.0.0 analytics.liveact.cri-mw.jp
 0.0.0.0 analytics.livesense.marketing
-0.0.0.0 analytics.mbga.jp
 0.0.0.0 analytics.partcommunity.com
 0.0.0.0 analyzer51.fc2.com
 0.0.0.0 asumi.shinobi.jp
@@ -312,7 +306,6 @@
 0.0.0.0 rlog.popin.cc
 0.0.0.0 rtg-adroute.focas.jp
 0.0.0.0 s.dc-tag.jp
-0.0.0.0 script-sh.d2cdm.jp
 0.0.0.0 speee-ad.akamaized.net
 0.0.0.0 stats.streamhub.io
 0.0.0.0 stlog.d.dmkt-sp.jp
@@ -337,7 +330,6 @@
 0.0.0.0 tracker.smartseminar.jp
 0.0.0.0 trk.fensi.plus
 0.0.0.0 uh.nakanohito.jp
-0.0.0.0 webbc.fivecdm.com
 0.0.0.0 x9.shinobi.jp
 0.0.0.0 acelogger.heraldcorp.com
 0.0.0.0 applog.ssgdfs.com
@@ -370,7 +362,6 @@
 0.0.0.0 collect.adplogger.no
 0.0.0.0 ish.tumedia.no
 0.0.0.0 log.medietall.no
-0.0.0.0 analytics.aasaam.com
 0.0.0.0 analytics.ceneo.pl
 0.0.0.0 ar1.aza.io
 0.0.0.0 ave-caesar-mas.modivo.io
@@ -525,7 +516,6 @@
 0.0.0.0 sayac.kapital.com.tr
 0.0.0.0 statistics.daktilo.com
 0.0.0.0 stats.vidyome.com
-0.0.0.0 tracking.venturify.at
 0.0.0.0 traffic.wdc.center
 0.0.0.0 informers.sinoptik.ua
 0.0.0.0 tracker.prom.ua
