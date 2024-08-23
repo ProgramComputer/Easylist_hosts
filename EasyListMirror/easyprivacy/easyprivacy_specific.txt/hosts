@@ -4,7 +4,6 @@
 0.0.0.0 a10.nationalreview.com
 0.0.0.0 aa.avvo.com
 0.0.0.0 ab-machine.forbes.com
-0.0.0.0 ab.chatgpt.com
 0.0.0.0 ab.fanatical.com
 0.0.0.0 activity.fiverr.com
 0.0.0.0 adc-js.nine.com.au
@@ -215,6 +214,7 @@
 0.0.0.0 events.turbosquid.com
 0.0.0.0 events2.www.edenfantasys.com
 0.0.0.0 evs.icy-lake.kickstarter.com
+0.0.0.0 exp.notion.so
 0.0.0.0 exr-mms.expertreviews.co.uk
 0.0.0.0 f362.nola.com
 0.0.0.0 fathom.app.silverbeak.com
@@ -383,6 +383,7 @@
 0.0.0.0 pks-analytics.raenonx.cc
 0.0.0.0 pl.letsblock.it
 0.0.0.0 plausible.bots.gg
+0.0.0.0 plausible.corsme.com
 0.0.0.0 plausible.dragonfru.it
 0.0.0.0 plausible.omgapi.org
 0.0.0.0 plausible.safing.io

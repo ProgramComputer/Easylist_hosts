@@ -472,6 +472,7 @@
 0.0.0.0 hits.tf.rs
 0.0.0.0 moa.mediaoutcast.com
 0.0.0.0 stat.ringier.sk
+0.0.0.0 cpx.smind.si
 0.0.0.0 1to1.bbva.com
 0.0.0.0 ab.blogs.es
 0.0.0.0 analitica.webrpp.com
@@ -511,9 +512,11 @@
 0.0.0.0 stat.matichon.co.th
 0.0.0.0 0.myikas.com
 0.0.0.0 analitik.bik.gov.tr
+0.0.0.0 analytics.faprika.net
 0.0.0.0 analytics.kkb.com.tr
 0.0.0.0 c.keltis.com
 0.0.0.0 collector.wawlabs.com
+0.0.0.0 log.collectaction.com
 0.0.0.0 sayac.kapital.com.tr
 0.0.0.0 statistics.daktilo.com
 0.0.0.0 stats.vidyome.com
