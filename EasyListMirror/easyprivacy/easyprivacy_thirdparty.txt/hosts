@@ -109,6 +109,7 @@
 0.0.0.0 analytics.pangle-ads.com
 0.0.0.0 analytics.piksel.com
 0.0.0.0 analytics.pixels.ai
+0.0.0.0 analytics.plasmic.app
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.pop2watch.com
 0.0.0.0 analytics.prezly.com
@@ -224,6 +225,7 @@
 0.0.0.0 cc.swiftype.com
 0.0.0.0 ccexperimentsstatic.oracleoutsourcing.com
 0.0.0.0 cdn-channels-pixel.ex.co
+0.0.0.0 cdn.ravm.tv
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 cf.overblog.com
 0.0.0.0 cgicounter.oneandone.co.uk
@@ -717,6 +719,7 @@
 0.0.0.0 s.beop.io
 0.0.0.0 s.logsss.com
 0.0.0.0 s.srvsynd.com
+0.0.0.0 s.vibe.co
 0.0.0.0 sa.scorpion.co
 0.0.0.0 scripts.psyma.com
 0.0.0.0 sd-tagging.azurefd.net
@@ -867,6 +870,7 @@
 0.0.0.0 tag.lexer.io
 0.0.0.0 tag.mtrcs.samba.tv
 0.0.0.0 tag.myplay.com
+0.0.0.0 tag.pearldiver.io
 0.0.0.0 tag.rightmessage.com
 0.0.0.0 tag.rmp.rakuten.com
 0.0.0.0 tag.statshop.fr
@@ -966,7 +970,6 @@
 0.0.0.0 tracker.nitropay.com
 0.0.0.0 tracker.nocodelytics.com
 0.0.0.0 tracker.novage.com.ua
-0.0.0.0 tracker.openwebtorrent.com
 0.0.0.0 tracker.services.vaix.ai
 0.0.0.0 tracker.smartframe.io
 0.0.0.0 tracker.softcube.com
