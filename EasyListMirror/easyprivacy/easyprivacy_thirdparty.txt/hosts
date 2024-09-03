@@ -582,6 +582,7 @@
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 mv.treehousei.com
 0.0.0.0 native-ads-events-api.c4s-rd.services
+0.0.0.0 native-ads-events-api2.c4s-rd.services
 0.0.0.0 neocounter.neoworx-blog-tools.net
 0.0.0.0 netlify-rum.netlify.app
 0.0.0.0 ninja.onap.io
@@ -757,6 +758,7 @@
 0.0.0.0 stat.moevideo.net
 0.0.0.0 stat.mydaddy.cc
 0.0.0.0 stat.segitek.hu
+0.0.0.0 stat.testme.cloud
 0.0.0.0 stat.u.sb
 0.0.0.0 stat.web-regie.com
 0.0.0.0 statdb.pressflex.com
@@ -817,6 +819,7 @@
 0.0.0.0 statscollector.sd-rtn.com
 0.0.0.0 statt-collect.herokuapp.com
 0.0.0.0 stg-data-collector.playbuzz.com
+0.0.0.0 stream-log.dditscdn.com
 0.0.0.0 streams.cablecar.sph.com.sg
 0.0.0.0 sts.eccmp.com
 0.0.0.0 sunlightmetrics.b-cdn.net
