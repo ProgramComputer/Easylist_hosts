@@ -318,6 +318,7 @@
 0.0.0.0 ct.corpusapp.com
 0.0.0.0 ct.needlive.com
 0.0.0.0 ct.pinterest.com
+0.0.0.0 cta-service-cms2.hubspot.com
 0.0.0.0 curated.fieldtest.cc
 0.0.0.0 customfingerprints.bablosoft.com
 0.0.0.0 cws.conviva.com
@@ -711,6 +712,7 @@
 0.0.0.0 rum.azion.com
 0.0.0.0 rum.azioncdn.net
 0.0.0.0 rum.corewebvitals.io
+0.0.0.0 rum.hlx.page
 0.0.0.0 rum.ingress.layer0.co
 0.0.0.0 rum.layer0.co
 0.0.0.0 rum.perfops.net
@@ -802,6 +804,7 @@
 0.0.0.0 stats.polldaddy.com
 0.0.0.0 stats.prebytes.com
 0.0.0.0 stats.pusher.com
+0.0.0.0 stats.pushloop.io
 0.0.0.0 stats.sa-as.com
 0.0.0.0 stats.sawlive.tv
 0.0.0.0 stats.screenresolution.org
@@ -1083,6 +1086,7 @@
 0.0.0.0 w4o7aea80ss3-a.akamaihd.net
 0.0.0.0 watchtower.graindata.com
 0.0.0.0 wco.crownpeak.com
+0.0.0.0 wds.weqs.me
 0.0.0.0 web-tracker.smsbump.com
 0.0.0.0 web1.51.la
 0.0.0.0 webcare.byside.com
