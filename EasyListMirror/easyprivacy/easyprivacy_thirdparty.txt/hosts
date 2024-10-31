@@ -1101,7 +1101,6 @@
 0.0.0.0 wds.weqs.me
 0.0.0.0 web-tracker.smsbump.com
 0.0.0.0 web1.51.la
-0.0.0.0 webcare.byside.com
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 webservices.websitepros.com
 0.0.0.0 webstats.thaindian.com
@@ -1253,6 +1252,7 @@
 0.0.0.0 stats.boringproxy.io
 0.0.0.0 stats.how.wtf
 0.0.0.0 ascpqnj-oam.global.ssl.fastly.net
+0.0.0.0 fpcn.bpsgameserver.com
 0.0.0.0 fyrsbckgi-c.global.ssl.fastly.net
 0.0.0.0 mjca-yijws.global.ssl.fastly.net
 0.0.0.0 rc.vtex.com.br
