@@ -361,7 +361,6 @@
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 edge.adobedc.net
 0.0.0.0 eel.transistor.fm
-0.0.0.0 ele26126.jscrambler.com
 0.0.0.0 eq.userneeds.com
 0.0.0.0 era.easyvoyage.com
 0.0.0.0 errors.snackly.co
@@ -682,6 +681,7 @@
 0.0.0.0 processor.asccommunications.com
 0.0.0.0 prod.ew.srp.navigacloud.com
 0.0.0.0 prod.fennec.atp.fox
+0.0.0.0 prodregistryv2.org
 0.0.0.0 proxy.dzeio.com
 0.0.0.0 proxy.trysavvy.com
 0.0.0.0 pt.crossmediaservices.com
