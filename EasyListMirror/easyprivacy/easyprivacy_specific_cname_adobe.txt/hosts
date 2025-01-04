@@ -1,4 +1,3 @@
-0.0.0.0 000scripps.hb.omtrdc.net
 0.0.0.0 0tfsd2rwwu3xjstb.edge41.testandtarget.omniture.com
 0.0.0.0 1ps6e7sort397gy9.edge46.testandtarget.omniture.com
 0.0.0.0 20.edge46.testandtarget.omniture.com
@@ -1812,7 +1811,6 @@
 0.0.0.0 lp.email-kpn.cjm.adobe.com
 0.0.0.0 lp.email-lightroom.cjm.adobe.com
 0.0.0.0 lp.email-merkle.cjm.adobe.com
-0.0.0.0 lp.go2.ringcentral.com
 0.0.0.0 lp.hol1.demoamericas275.adobe.com
 0.0.0.0 lp.hol10.demoamericas275.adobe.com
 0.0.0.0 lp.hol11.demoamericas275.adobe.com
@@ -8323,7 +8321,6 @@
 0.0.0.0 ssl.o.univadis.fr
 0.0.0.0 ssl.o.univadis.it
 0.0.0.0 ssl.o.vitals.com
-0.0.0.0 ssl.o.webmd.com
 0.0.0.0 ssl.o.webmdrx.com
 0.0.0.0 ssl.sciencechannel.com
 0.0.0.0 sslanalytics.sixt.co.uk
@@ -8869,7 +8866,6 @@
 0.0.0.0 std.o.medicinenet.com
 0.0.0.0 std.o.medscape.com
 0.0.0.0 std.o.rxlist.com
-0.0.0.0 std.o.webmd.com
 0.0.0.0 stel.telegraaf.nl
 0.0.0.0 stereos2.crutchfield.com
 0.0.0.0 stereos2s.crutchfield.ca
@@ -9522,7 +9518,6 @@
 0.0.0.0 visitor.novartisoncology.us
 0.0.0.0 visualscience.external.bbc.co.uk
 0.0.0.0 vs.target.com
-0.0.0.0 w.smobile.wotif.com
 0.0.0.0 w88.abc.com
 0.0.0.0 w88.disneynow.com
 0.0.0.0 w88.espn.com
@@ -9623,15 +9618,11 @@
 0.0.0.0 www-sadobe.anabuki-community.com
 0.0.0.0 www-sadobe.anabuki.co.jp
 0.0.0.0 www-smt.daiichisankyo-hc.co.jp
-0.0.0.0 www.metrics.argos.co.uk
 0.0.0.0 www.metrics.bankaustria.at
 0.0.0.0 www.notice.assurancewireless.com
 0.0.0.0 www.notice.metrobyt-mobile.com
 0.0.0.0 www.notice.t-mobile.com
-0.0.0.0 www.smetrics.argos.co.uk
 0.0.0.0 www.smetrics.imedeen.us
-0.0.0.0 www.sstats.bnpparibasfortis.be
-0.0.0.0 www.sstats.hellobank.be
 0.0.0.0 www1.discountautomirrors.com
 0.0.0.0 www15.jedora.com
 0.0.0.0 www15.jtv.com
