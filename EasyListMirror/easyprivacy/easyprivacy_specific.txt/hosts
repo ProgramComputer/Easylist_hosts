@@ -66,6 +66,7 @@
 0.0.0.0 analytics.tomato.gg
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.vedantu.com
+0.0.0.0 analytics.viture.dev
 0.0.0.0 analytics.vortexscans.com
 0.0.0.0 analytics.wavebox.io
 0.0.0.0 analytics.yugen.to
@@ -73,6 +74,7 @@
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 api-hotmart-tracking-manager.hotmart.com
 0.0.0.0 api-js.mixpanel.com
+0.0.0.0 api-visitor-analytics.intercom.com
 0.0.0.0 appanalysis.banggood.com
 0.0.0.0 ats.alot.com
 0.0.0.0 aurum.tirto.id
