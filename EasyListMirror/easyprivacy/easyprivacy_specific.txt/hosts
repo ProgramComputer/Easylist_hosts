@@ -76,6 +76,7 @@
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 api-visitor-analytics.intercom.com
 0.0.0.0 appanalysis.banggood.com
+0.0.0.0 asanalytics.booking.com
 0.0.0.0 ats.alot.com
 0.0.0.0 aurum.tirto.id
 0.0.0.0 b629.electronicdesign.com
@@ -500,6 +501,7 @@
 0.0.0.0 sstats.adobe.com
 0.0.0.0 st.sawlive.tv
 0.0.0.0 stan.xing.com
+0.0.0.0 stape.brascast.com
 0.0.0.0 stat.pubhtml5.com
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 stat.turb.pw
@@ -666,6 +668,7 @@
 0.0.0.0 wa.sugarandjade.com
 0.0.0.0 wal.wolfram.com
 0.0.0.0 wapn1.flosports.tv
+0.0.0.0 web-perf.booking.com
 0.0.0.0 webapi.3cx.com
 0.0.0.0 weblog.flyasiana.com
 0.0.0.0 wh.ipaddress.com
