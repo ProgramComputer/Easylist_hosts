@@ -376,6 +376,7 @@
 0.0.0.0 enc-90128738.b-cdn.net
 0.0.0.0 eq.userneeds.com
 0.0.0.0 era.easyvoyage.com
+0.0.0.0 error-analytics-sessions-production.shopifysvc.com
 0.0.0.0 errors.snackly.co
 0.0.0.0 et.educationdynamics.com
 0.0.0.0 etl.springbot.com
@@ -746,6 +747,7 @@
 0.0.0.0 rg-3tn.pages.dev
 0.0.0.0 rs.sinajs.cn
 0.0.0.0 rt.flix360.com
+0.0.0.0 rtb.prod.carbonatixaudio.com
 0.0.0.0 rtc.multiscreensite.com
 0.0.0.0 rtxpx-a.akamaihd.net
 0.0.0.0 rum.azion.com
@@ -969,6 +971,7 @@
 0.0.0.0 tr.outbrain.com
 0.0.0.0 tr.snapchat.com
 0.0.0.0 tr.standardadmin.org
+0.0.0.0 tr.thecontentserver.com
 0.0.0.0 tr.vitals.co
 0.0.0.0 tr.webantenna.info
 0.0.0.0 traccoon.intellectsoft.net
