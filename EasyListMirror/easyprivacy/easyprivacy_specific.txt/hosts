@@ -1,3 +1,4 @@
+0.0.0.0 1rer.hummel.net
 0.0.0.0 a-da.invideo.io
 0.0.0.0 a-reporting.nytimes.com
 0.0.0.0 a.electerious.com
@@ -89,6 +90,7 @@
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 beacons.digital.disneyadvertising.com
+0.0.0.0 beoecomapim.bang-olufsen.com
 0.0.0.0 bfp.capitalone.com
 0.0.0.0 bi.banggood.com
 0.0.0.0 bicp-analytics.postscript.io
@@ -173,6 +175,7 @@
 0.0.0.0 data.allstate.com
 0.0.0.0 data.barry-callebaut.com
 0.0.0.0 data.guide.photobucket.com
+0.0.0.0 data.jerkmate.com
 0.0.0.0 data.torry.io
 0.0.0.0 data.ublock-browser.com
 0.0.0.0 data.younow.com
@@ -233,6 +236,7 @@
 0.0.0.0 events.privy.com
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
+0.0.0.0 events.s4long.com
 0.0.0.0 events.santander.co.uk
 0.0.0.0 events.squarespace.com
 0.0.0.0 events.turbosquid.com
@@ -273,6 +277,7 @@
 0.0.0.0 gmetrics.getbeamer.com
 0.0.0.0 gnar.grammarly.com
 0.0.0.0 go.pardot.com
+0.0.0.0 graylog.prod.cams.run
 0.0.0.0 grgnsht.nzxt.com
 0.0.0.0 gtm.lercio.it
 0.0.0.0 gtm.wise.com
@@ -340,6 +345,7 @@
 0.0.0.0 ma.redhat.com
 0.0.0.0 marketing.alibaba.com
 0.0.0.0 marketing.dropbox.com
+0.0.0.0 marketing.taskus.com
 0.0.0.0 marty.zappos.com
 0.0.0.0 mcc-tags.cisco.com
 0.0.0.0 mcs-ie.tiktokw.eu
@@ -593,6 +599,7 @@
 0.0.0.0 thtk.temu.com
 0.0.0.0 tif.ionos.com
 0.0.0.0 tilanalytics.timesinternet.in
+0.0.0.0 tms.abconsent.com
 0.0.0.0 tms.eharmony.ca
 0.0.0.0 tms.hft.everyplate.com
 0.0.0.0 tms.hft.factor75.com
@@ -710,6 +717,7 @@
 0.0.0.0 svc2.sc.com
 0.0.0.0 tm-eps.neutrino.nu
 0.0.0.0 tmetrix.my.chick-fil-a.com
+0.0.0.0 tmx.bestbuy.com
 0.0.0.0 tmx.td.com
 0.0.0.0 u47.pnc.com
 0.0.0.0 w-profiling.simplii.com

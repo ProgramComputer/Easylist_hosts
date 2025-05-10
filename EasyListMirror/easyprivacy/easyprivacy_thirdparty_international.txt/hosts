@@ -213,6 +213,7 @@
 0.0.0.0 trckr.nordiskemedier.dk
 0.0.0.0 analytics.belgacom.be
 0.0.0.0 analytics.hatech.dev
+0.0.0.0 analytics.newsifier.nl
 0.0.0.0 apm.tnet.nl
 0.0.0.0 ct.beslist.nl
 0.0.0.0 dmtgo.upc.biz
@@ -232,6 +233,7 @@
 0.0.0.0 analytics.palitra.ge
 0.0.0.0 links.boom.ge
 0.0.0.0 event-tracker-library.mediaownerscloud.com
+0.0.0.0 metrics.find.gr
 0.0.0.0 stats-real-clients.zentech.gr
 0.0.0.0 tag.weezmo.com
 0.0.0.0 heartbeat.pmd.444.hu

@@ -29,6 +29,7 @@
 0.0.0.0 analytic-client.panowars.com
 0.0.0.0 analytic.rollout.io
 0.0.0.0 analyticcdn.globalmailer.com
+0.0.0.0 analyticcdn.wlmediahub.com
 0.0.0.0 analytics-1.cavai.com
 0.0.0.0 analytics-api.klickly.com
 0.0.0.0 analytics-cf.bigcrunch.com
@@ -247,6 +248,7 @@
 0.0.0.0 chanalytics.merchantadvantage.com
 0.0.0.0 cimage.adobe.com
 0.0.0.0 ck.connatix.com
+0.0.0.0 cl-pbr.cxr.skeepers.io
 0.0.0.0 click.appinthestore.com
 0.0.0.0 click360v2-ingest.azurewebsites.net
 0.0.0.0 clicks.dealer.com
@@ -329,6 +331,7 @@
 0.0.0.0 csp-reporting.cloudflare.com
 0.0.0.0 csp.secureserver.net
 0.0.0.0 csr.onet.pl
+0.0.0.0 ct-errs.cartrawler.com
 0.0.0.0 ct.capterra.com
 0.0.0.0 ct.corpusapp.com
 0.0.0.0 ct.needlive.com
@@ -470,6 +473,7 @@
 0.0.0.0 geoservice.curse.com
 0.0.0.0 geotags.refinery89.com
 0.0.0.0 gi-client-tracking.goodgamestudios.com
+0.0.0.0 globale-analytics-sdk.global-e.com
 0.0.0.0 go.activengage.com
 0.0.0.0 green-griffin-860.appspot.com
 0.0.0.0 gsp1.baidu.com
@@ -483,6 +487,7 @@
 0.0.0.0 hi.hellobar.com
 0.0.0.0 highway.cablecar.sph.com.sg
 0.0.0.0 hit.mybestpro.com
+0.0.0.0 hit.salesfire.co.uk
 0.0.0.0 hits.dealer.com
 0.0.0.0 hits.getelevar.com
 0.0.0.0 hits.gokwik.co
@@ -1014,6 +1019,7 @@
 0.0.0.0 track.yieldsoftware.com
 0.0.0.0 track.zappos.com
 0.0.0.0 tracker-dot-optimeeze.appspot.com
+0.0.0.0 tracker-server.high-cdn.com
 0.0.0.0 tracker-v4.gamedock.io
 0.0.0.0 tracker.affirm.com
 0.0.0.0 tracker.au.zitcha.app
@@ -1123,6 +1129,7 @@
 0.0.0.0 trx.zip.co
 0.0.0.0 try.abtasty.com
 0.0.0.0 ts.tradetracker.net
+0.0.0.0 uaas.yandex.ru
 0.0.0.0 ubm.docu.info
 0.0.0.0 ucounter.ucoz.net
 0.0.0.0 uid.mediacorp.sg
