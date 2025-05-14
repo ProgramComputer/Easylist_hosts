@@ -364,6 +364,7 @@
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 distillery.wistia.com
 0.0.0.0 dl.episerver.net
+0.0.0.0 doh.cq0.co
 0.0.0.0 doppler-beacon.cbsivideo.com
 0.0.0.0 doppler-client-events.cbsivideo.com
 0.0.0.0 doppler-reporting.cbsivideo.com
@@ -525,6 +526,7 @@
 0.0.0.0 javascriptcounter.appspot.com
 0.0.0.0 jill.fc.yahoo.com
 0.0.0.0 jly24aw29n5m-a.akamaihd.net
+0.0.0.0 js.verisoul.ai
 0.0.0.0 jtracking-gate.lulusoft.com
 0.0.0.0 k.keyade.com
 0.0.0.0 k.streamrail.com
@@ -1078,6 +1080,7 @@
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 tracking.godatafeed.com
 0.0.0.0 tracking.graphly.io
+0.0.0.0 tracking.happierleads.com
 0.0.0.0 tracking.hivecloud.net
 0.0.0.0 tracking.hyros.com
 0.0.0.0 tracking.intentsify.io
@@ -1129,6 +1132,7 @@
 0.0.0.0 trx.zip.co
 0.0.0.0 try.abtasty.com
 0.0.0.0 ts.tradetracker.net
+0.0.0.0 tzm.px-cloud.net
 0.0.0.0 uaas.yandex.ru
 0.0.0.0 ubm.docu.info
 0.0.0.0 ucounter.ucoz.net
