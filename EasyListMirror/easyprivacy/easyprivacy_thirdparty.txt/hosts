@@ -344,6 +344,8 @@
 0.0.0.0 ct.needlive.com
 0.0.0.0 ct.pinterest.com
 0.0.0.0 curated.fieldtest.cc
+0.0.0.0 customers.edgetag.io
+0.0.0.0 customers.xray-superpixel.com
 0.0.0.0 customfingerprints.bablosoft.com
 0.0.0.0 cws.conviva.com
 0.0.0.0 d.shareaholic.com
@@ -448,6 +450,8 @@
 0.0.0.0 experience.contextly.com
 0.0.0.0 f-log-at.grammarly.io
 0.0.0.0 f-log-test.grammarly.io
+0.0.0.0 fallback.attntags.com
+0.0.0.0 fallback.emtag.net
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fcmatch.youtube.com
 0.0.0.0 fgip.rosehosting.com
