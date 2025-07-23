@@ -52,6 +52,7 @@
 0.0.0.0 stats.frankfurterneuepresse.de
 0.0.0.0 stats.united-domains.de
 0.0.0.0 stats.urban-media.com
+0.0.0.0 t.cpurls.net
 0.0.0.0 t.etraveli.com
 0.0.0.0 t.nativendo.de
 0.0.0.0 t.quisma.com
@@ -455,6 +456,7 @@
 0.0.0.0 browser-updater.yandex.net
 0.0.0.0 c.bigmir.net
 0.0.0.0 cdn-rum.ngenix.net
+0.0.0.0 clickstream.sberbank.ru
 0.0.0.0 client-analytics.mts.ru
 0.0.0.0 cnstats.cdev.eu
 0.0.0.0 cnt.logoslovo.ru
