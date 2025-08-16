@@ -32,6 +32,7 @@
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analyticcdn.wlmediahub.com
 0.0.0.0 analytics-1.cavai.com
+0.0.0.0 analytics-api.gemcommerce.com
 0.0.0.0 analytics-api.klickly.com
 0.0.0.0 analytics-cf.bigcrunch.com
 0.0.0.0 analytics-cms.whitebeard.me
@@ -635,6 +636,7 @@
 0.0.0.0 mon.domdog.io
 0.0.0.0 monitor-api.blackcrow.ai
 0.0.0.0 monitor-frontend-collector.a.bybit-aws.com
+0.0.0.0 monitor.agenedia.com
 0.0.0.0 monitor.fraudblocker.com
 0.0.0.0 monitoring.iraiser.eu
 0.0.0.0 monorail-edge.shopifysvc.com
@@ -1223,6 +1225,7 @@
 0.0.0.0 wl-pixel.index.digital
 0.0.0.0 ws.audioeye.com
 0.0.0.0 wsmcdn.audioeye.com
+0.0.0.0 wstats.ageverif.com
 0.0.0.0 wstats.slashed.cloud
 0.0.0.0 wt.viagogo.net
 0.0.0.0 wtb-tag.swaven.com
