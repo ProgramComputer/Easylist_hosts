@@ -314,6 +314,7 @@
 0.0.0.0 collector.sspinc.io
 0.0.0.0 collector5.zipy.ai
 0.0.0.0 commerce.bing.com
+0.0.0.0 commercial-analytics-collector.news.co.uk
 0.0.0.0 conan.screencast-o-matic.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 connect.idocdn.com
@@ -1288,6 +1289,9 @@
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 yandexadexchange.net
+0.0.0.0 do-not-tracker.org
+0.0.0.0 eviltracker.net
+0.0.0.0 trackersimulator.org
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d11bdev7tcn7wh.cloudfront.net
 0.0.0.0 d169bbxks24g2u.cloudfront.net
