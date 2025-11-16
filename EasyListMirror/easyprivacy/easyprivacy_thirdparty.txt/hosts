@@ -191,6 +191,7 @@
 0.0.0.0 apps-pbd.ctraffic.io
 0.0.0.0 argos.citruserve.com
 0.0.0.0 ariane.abtasty.com
+0.0.0.0 assets.9gtb.com
 0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 attributiontrackingga.googlecode.com
 0.0.0.0 audience.newscgp.com
@@ -266,6 +267,7 @@
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 cdns.brsrvr.com
 0.0.0.0 cf-pixelfront-analytics.widencdn.net
+0.0.0.0 cf.api.instant.one
 0.0.0.0 cf.overblog.com
 0.0.0.0 cgicounter.oneandone.co.uk
 0.0.0.0 cgicounter.puretec.de
@@ -442,6 +444,7 @@
 0.0.0.0 eventlog.chatlead.com
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 events-endpoint.pointandplace.com
+0.0.0.0 events-ocu.zipify.com
 0.0.0.0 events.air.tv
 0.0.0.0 events.api.secureserver.net
 0.0.0.0 events.attentivemobile.com
@@ -753,6 +756,7 @@
 0.0.0.0 pixel.sprinklr.com
 0.0.0.0 pixel.veritone-ce.com
 0.0.0.0 pixel.videohub.tv
+0.0.0.0 pixel.wetracked.io
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 pixel.yola.com
@@ -1005,6 +1009,7 @@
 0.0.0.0 t.spbx.app
 0.0.0.0 t.splicky.com
 0.0.0.0 t.spot.im
+0.0.0.0 t.vibe.co
 0.0.0.0 t2.t2b.click
 0.0.0.0 ta.trs.cn
 0.0.0.0 tag-manager.playbuzz.com
