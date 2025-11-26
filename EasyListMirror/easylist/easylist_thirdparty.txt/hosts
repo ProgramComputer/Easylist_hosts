@@ -24,9 +24,6 @@
 0.0.0.0 ad.video-mech.ru
 0.0.0.0 ad.wsod.com
 0.0.0.0 ad01.tmgrup.com.tr
-0.0.0.0 adblock2.static-cloudflare.workers.dev
-0.0.0.0 adblock3.static-cloudflare.workers.dev
-0.0.0.0 adblock4.static-cloudflare.workers.dev
 0.0.0.0 adblockeromega.com
 0.0.0.0 adcheck.about.co.kr
 0.0.0.0 addefenderplus.info
@@ -139,6 +136,7 @@
 0.0.0.0 linkx.ix.tc
 0.0.0.0 magictag.digislots.in
 0.0.0.0 marketing.888.com
+0.0.0.0 masque-ads.b-cdn.net
 0.0.0.0 mbid.marfeelrev.com
 0.0.0.0 media.netrefer.com
 0.0.0.0 media.vivaclix.com

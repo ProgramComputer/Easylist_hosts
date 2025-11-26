@@ -8,7 +8,6 @@
 0.0.0.0 ad.kissanime.com.ru
 0.0.0.0 ad.kissanime.org.ru
 0.0.0.0 ad.kissanime.sx
-0.0.0.0 ad.kissasian.es
 0.0.0.0 ad.kisscartoon.nz
 0.0.0.0 ad.kisscartoon.sh
 0.0.0.0 ad.kisstvshow.ru
@@ -17,7 +16,6 @@
 0.0.0.0 ad.ymcdn.org
 0.0.0.0 ads-api.stuff.co.nz
 0.0.0.0 ads-api.videy.co
-0.0.0.0 ads.audio.thisisdax.com
 0.0.0.0 ads.ipfighter.com
 0.0.0.0 ads.talksport.com
 0.0.0.0 ads.tvmnews.mt
@@ -35,11 +33,9 @@
 0.0.0.0 ban.etherscan.com
 0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 bettingads.365scores.com
-0.0.0.0 blue.ktla.com
 0.0.0.0 bordeaux.futurecdn.net
 0.0.0.0 cdn.manga9.co
 0.0.0.0 cdnads.geeksforgeeks.org
-0.0.0.0 centent.stemplay.cc
 0.0.0.0 creatives.livejasmin.com
 0.0.0.0 dsp.aparat.com
 0.0.0.0 dyn.varsity.co.uk
@@ -48,11 +44,9 @@
 0.0.0.0 eas.etherscan.com
 0.0.0.0 edge.ads.twitch.tv
 0.0.0.0 eentent.streampiay.me
-0.0.0.0 engagesrvr.filefactory.com
 0.0.0.0 engine.fxempire.com
 0.0.0.0 engine.laweekly.com
 0.0.0.0 fentent.stre4mplay.one
-0.0.0.0 fentent.streampiay.me
 0.0.0.0 gamer.mmohuts.com
 0.0.0.0 gentent.stre4mplay.one
 0.0.0.0 hentent.stre4mplay.one
@@ -63,7 +57,6 @@
 0.0.0.0 imp.pixiv.net
 0.0.0.0 japfg-trending-content.uc.r.appspot.com
 0.0.0.0 js.cmoa.pro
-0.0.0.0 js.mangajp.top
 0.0.0.0 js.syosetu.top
 0.0.0.0 keen-eyed.dotabuff.com
 0.0.0.0 kentent.stre4mplay.one
@@ -71,7 +64,6 @@
 0.0.0.0 loader.crosswordsolver.com
 0.0.0.0 loader.the-crossword-solver.com
 0.0.0.0 loader.word-grabber.com
-0.0.0.0 loader.worldhistory.org
 0.0.0.0 lw.musictarget.com
 0.0.0.0 mafvertizing.crazygames.com
 0.0.0.0 mail-ads.google.com
@@ -84,19 +76,14 @@
 0.0.0.0 products.gobankingrates.com
 0.0.0.0 pubsrv.devhints.io
 0.0.0.0 rafvertizing.crazygames.com
-0.0.0.0 red-shell.speedrun.com
 0.0.0.0 rev.frankspeech.com
 0.0.0.0 sasinator.realestate.com.au
-0.0.0.0 shield.knowt.com
 0.0.0.0 socket.streamable.com
-0.0.0.0 spike-plant.valorbuff.com
 0.0.0.0 sponsors.vuejs.org
 0.0.0.0 static.ad.libimseti.cz
 0.0.0.0 store-api.mumuglobal.com
-0.0.0.0 t.police1.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tr.7vid.net
-0.0.0.0 tracking.police1.com
 0.0.0.0 wafvertizing.crazygames.com
 0.0.0.0 wall.vgr.com
 0.0.0.0 x.castanet.net
@@ -104,4 +91,3 @@
 0.0.0.0 dywolfer.de
 0.0.0.0 play.springboardplatform.com
 0.0.0.0 video-streaming.ezoic.com
-0.0.0.0 vplayer.newseveryday.com
