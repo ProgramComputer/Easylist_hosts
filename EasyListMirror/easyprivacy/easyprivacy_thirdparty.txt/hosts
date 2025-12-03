@@ -423,6 +423,7 @@
 0.0.0.0 error-analytics-production.shopifysvc.com
 0.0.0.0 error-analytics-sessions-production.shopifysvc.com
 0.0.0.0 errors.snackly.co
+0.0.0.0 essential-apps-analytics.herokuapp.com
 0.0.0.0 et.educationdynamics.com
 0.0.0.0 etl.springbot.com
 0.0.0.0 eu-mobile.events.data.microsoft.com
@@ -751,6 +752,7 @@
 0.0.0.0 pixel.mintigo.com
 0.0.0.0 pixel.mtrcs.samba.tv
 0.0.0.0 pixel.newscred.com
+0.0.0.0 pixel.propublica.org
 0.0.0.0 pixel.pub.lilyai.net
 0.0.0.0 pixel.redgifs.com
 0.0.0.0 pixel.roymorgan.com
