@@ -1230,6 +1230,7 @@
 0.0.0.0 trafficfuelpixel.s3-us-west-2.amazonaws.com
 0.0.0.0 trap.skype.com
 0.0.0.0 traxex.gannettdigital.com
+0.0.0.0 trck.digiteka.com
 0.0.0.0 trends.newsmaxwidget.com
 0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 triplewhale-pixel.web.app
@@ -1249,8 +1250,6 @@
 0.0.0.0 uid.mediacorp.sg
 0.0.0.0 uilogging.tcdevops.com
 0.0.0.0 uim.tifbs.net
-0.0.0.0 umami.aigenerations.net
-0.0.0.0 umami.heroku.uk
 0.0.0.0 units.knotch.it
 0.0.0.0 uptime.fastrr.com
 0.0.0.0 uptime2.fastrr.com
