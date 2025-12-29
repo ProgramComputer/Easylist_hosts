@@ -190,6 +190,7 @@
 0.0.0.0 api.june.so
 0.0.0.0 api.wipmania.com
 0.0.0.0 app.optibase.io
+0.0.0.0 app.partnerboost.com
 0.0.0.0 apple.www.letv.com
 0.0.0.0 applets.ebxcdn.com
 0.0.0.0 apps-pbd.ctraffic.io
@@ -269,6 +270,7 @@
 0.0.0.0 ccexperimentsstatic.oracleoutsourcing.com
 0.0.0.0 cdn-channels-pixel.ex.co
 0.0.0.0 cdn-eu.usefathom.com
+0.0.0.0 cdn.9gtb.com
 0.0.0.0 cdn.polarbyte.com
 0.0.0.0 cdn.ravm.tv
 0.0.0.0 cdn.usefathom.com
@@ -701,6 +703,8 @@
 0.0.0.0 nwr.static.mmcdn.com
 0.0.0.0 o.momently.info
 0.0.0.0 o9tt6h08li.execute-api.eu-west-1.amazonaws.com
+0.0.0.0 obs.branderblender.com
+0.0.0.0 obs.du89buildings.com
 0.0.0.0 obs.esnlocco.com
 0.0.0.0 obs.jollyoutdoorjogger.com
 0.0.0.0 obs.system1onesource.com
@@ -1012,6 +1016,7 @@
 0.0.0.0 t.jobsyn.org
 0.0.0.0 t.menepe.com
 0.0.0.0 t.metrilo.com
+0.0.0.0 t.mydialoginsight.com
 0.0.0.0 t.pointandplace.com
 0.0.0.0 t.raptorsmartadvisor.com
 0.0.0.0 t.rentcafe.com
@@ -1287,10 +1292,12 @@
 0.0.0.0 webtrack.chd01.com
 0.0.0.0 webtracker.apicasystem.com
 0.0.0.0 wf.typesquare.com
+0.0.0.0 wgs.wgs-static.com
 0.0.0.0 widget-pixels.outbrain.com
 0.0.0.0 widget.educationdynamics.com
 0.0.0.0 win.staticstuff.net
 0.0.0.0 wl-pixel.index.digital
+0.0.0.0 work.selecdoo.com
 0.0.0.0 ws.audioeye.com
 0.0.0.0 wsmcdn.audioeye.com
 0.0.0.0 wstats.ageverif.com
