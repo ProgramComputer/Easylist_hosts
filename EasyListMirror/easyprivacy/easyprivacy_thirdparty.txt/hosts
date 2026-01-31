@@ -514,7 +514,6 @@
 0.0.0.0 fallback.emtag.net
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fcmatch.youtube.com
-0.0.0.0 fd.cleantalk.org
 0.0.0.0 fgip.rosehosting.com
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 fingerprinter-production.herokuapp.com
@@ -874,6 +873,7 @@
 0.0.0.0 rum.hlx.page
 0.0.0.0 rum.ingress.layer0.co
 0.0.0.0 rum.layer0.co
+0.0.0.0 rum.optimizely.com
 0.0.0.0 rum.perfops.net
 0.0.0.0 rum.uptime.com
 0.0.0.0 rumstat.cdnvideo.ru
