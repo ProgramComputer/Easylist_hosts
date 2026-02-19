@@ -1198,6 +1198,7 @@
 0.0.0.0 literally-analytics.appspot.com
 0.0.0.0 live.exchangesolutions.com
 0.0.0.0 livecounter.theyosh.nl
+0.0.0.0 livesearch-metrics.magento-ds.com
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 lma.npaw.com
 0.0.0.0 loader-cdn.azureedge.net
@@ -2327,6 +2328,7 @@
 0.0.0.0 trjs2.mediafin.be
 0.0.0.0 trkr.shoppingminds.net
 0.0.0.0 ubt-sgp.travix.com
+0.0.0.0 ddl.alma.iltalehti.fi
 0.0.0.0 dnt-userreport.com
 0.0.0.0 tags.op-palvelut.fi
 0.0.0.0 analytics.palitra.ge
@@ -2526,6 +2528,7 @@
 0.0.0.0 analytics.tufos.com.br
 0.0.0.0 collect.chaordicsystems.com
 0.0.0.0 events.chaordicsystems.com
+0.0.0.0 eventsourcing.ms.harmo.me
 0.0.0.0 feature-flag-edge.live.clickbus.net
 0.0.0.0 gke.econodata.com.br
 0.0.0.0 hitserver.ibope.com.br
