@@ -105,7 +105,6 @@
 0.0.0.0 counter247.live
 0.0.0.0 cpx.to
 0.0.0.0 cr-relay.com
-0.0.0.0 crcldu.com
 0.0.0.0 crossengage.io
 0.0.0.0 crwdcntrl.net
 0.0.0.0 cvlb.dev
@@ -1096,6 +1095,7 @@
 0.0.0.0 fp-flame.vercel.app
 0.0.0.0 frog.editorx.com
 0.0.0.0 fs-client-logger.herokuapp.com
+0.0.0.0 fst-ec.perimeterx.net
 0.0.0.0 ftm.fluencyinc.co
 0.0.0.0 future-fie-assets.co.uk
 0.0.0.0 future-price.co.uk
@@ -1471,6 +1471,7 @@
 0.0.0.0 sessions.embeddables.com
 0.0.0.0 sftrack.searchforce.net
 0.0.0.0 sgali-mcs.byteoversea.com
+0.0.0.0 sgm-w.jd.com
 0.0.0.0 shared.65twenty.com
 0.0.0.0 shopify-webhooks.sailthru.com
 0.0.0.0 slackb.com
@@ -2116,6 +2117,7 @@
 0.0.0.0 fd.bawag.at
 0.0.0.0 geo.mtvnn.com
 0.0.0.0 geo.xcel.io
+0.0.0.0 grafana-agent.cuboxx.io
 0.0.0.0 hbx.df-srv.de
 0.0.0.0 live.cxo.name
 0.0.0.0 liveviewer.ez.no
@@ -2828,6 +2830,7 @@
 0.0.0.0 c.wired.com
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.xbox.com
+0.0.0.0 cactus.joybuy.com
 0.0.0.0 cdapi.collegedunia.com
 0.0.0.0 chloro.trip.com
 0.0.0.0 chronicle.medal.tv
@@ -2839,6 +2842,7 @@
 0.0.0.0 clickins.slixa.com
 0.0.0.0 client-log.box.com
 0.0.0.0 client-metrics.chess.com
+0.0.0.0 clk-m.joybuy.com
 0.0.0.0 clp-mms.cloudpro.co.uk
 0.0.0.0 cm-mms.coachmag.co.uk
 0.0.0.0 cm.nordvpn.com
@@ -3021,6 +3025,7 @@
 0.0.0.0 gurgle.pcmag.com
 0.0.0.0 gurgle.spiceworks.com
 0.0.0.0 h031.familydollar.com
+0.0.0.0 h5log.joybuy.com
 0.0.0.0 health-metrics-api.setapp.com
 0.0.0.0 heap.drop.com
 0.0.0.0 hlogger.heraldcorp.com
@@ -39324,6 +39329,7 @@
 0.0.0.0 tracking.zaertlicheladies.de
 0.0.0.0 tracking.zierlicheladies.de
 0.0.0.0 tracksrv.zdf.de
+0.0.0.0 ud.galaxus.de
 0.0.0.0 vfd2dyn.vodafone.de
 0.0.0.0 wa.gmx.ch
 0.0.0.0 wa.gmx.net
