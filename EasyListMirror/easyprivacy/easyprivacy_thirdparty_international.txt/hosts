@@ -595,7 +595,6 @@
 0.0.0.0 analytics.qushad.com
 0.0.0.0 analytics.ticimax.cloud
 0.0.0.0 c.keltis.com
-0.0.0.0 collector.wawlabs.com
 0.0.0.0 log.collectaction.com
 0.0.0.0 sayac.kapital.com.tr
 0.0.0.0 statistics.daktilo.com
@@ -603,6 +602,7 @@
 0.0.0.0 track.livasoft.com.tr
 0.0.0.0 tracker.adcluster.com.tr
 0.0.0.0 traffic.wdc.center
+0.0.0.0 wa.wawlabs.com
 0.0.0.0 informers.sinoptik.ua
 0.0.0.0 tracker.multisearch.io
 0.0.0.0 tracker.prom.ua
