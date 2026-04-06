@@ -858,6 +858,7 @@
 0.0.0.0 cf-pixelfront-analytics.widencdn.net
 0.0.0.0 cf.api.instant.one
 0.0.0.0 cf.overblog.com
+0.0.0.0 cfapi.upstackdata.io
 0.0.0.0 cgicounter.oneandone.co.uk
 0.0.0.0 cgicounter.puretec.de
 0.0.0.0 chanalytics.merchantadvantage.com
@@ -1020,6 +1021,7 @@
 0.0.0.0 era.easyvoyage.com
 0.0.0.0 error-analytics-production.shopifysvc.com
 0.0.0.0 error-analytics-sessions-production.shopifysvc.com
+0.0.0.0 error-tracker.pages.dev
 0.0.0.0 errors.snackly.co
 0.0.0.0 essential-apps-analytics.herokuapp.com
 0.0.0.0 et.educationdynamics.com
