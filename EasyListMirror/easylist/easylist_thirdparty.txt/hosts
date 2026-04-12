@@ -131,9 +131,11 @@
 0.0.0.0 hb.yahoo.net
 0.0.0.0 hbid.ams3.cdn.digitaloceanspaces.com
 0.0.0.0 hvdt8.chimeratool.com
+0.0.0.0 increase-rev1.static-cloudflare.workers.dev
 0.0.0.0 increaserev2.static-cloudflare.workers.dev
 0.0.0.0 increaserev3.static-cloudflare.workers.dev
 0.0.0.0 increaserev4.static-cloudflare.workers.dev
+0.0.0.0 increaserev5.static-cloudflare.workers.dev
 0.0.0.0 js.gov.cfd
 0.0.0.0 js.kakuyomu.in
 0.0.0.0 js.kkraw.com
