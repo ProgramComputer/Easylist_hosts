@@ -603,6 +603,7 @@
 0.0.0.0 adv-analytics-collector.videograph.ai
 0.0.0.0 affiliate-api.raptive.com
 0.0.0.0 affiliates.minglematch.com
+0.0.0.0 aim-tag.hcn.health
 0.0.0.0 akatracking.esearchvision.com
 0.0.0.0 alexandria.marfeelcdn.com
 0.0.0.0 alib.nine.com.au
@@ -772,6 +773,7 @@
 0.0.0.0 analyticsehnwe.servicebus.windows.net
 0.0.0.0 analyticsplusdev.clientify.net
 0.0.0.0 analyticssec.overwolf.com
+0.0.0.0 analyze-82dfgsi2.m-w.com
 0.0.0.0 ao-freegeoip.herokuapp.com
 0.0.0.0 ape-tagit.timeinc.net
 0.0.0.0 api-analytics-prd.pelcro.com
@@ -1421,6 +1423,7 @@
 0.0.0.0 prd-collector-anon.ex.co
 0.0.0.0 prd-collector-platform.ex.co
 0.0.0.0 prf.vagnt.com
+0.0.0.0 privacy-analytics-proxy.cookiebot.com
 0.0.0.0 privacy.outdoorsg.com
 0.0.0.0 processor.asccommunications.com
 0.0.0.0 prod.ew.srp.navigacloud.com
@@ -3270,6 +3273,7 @@
 0.0.0.0 pm.geniusmonkey.com
 0.0.0.0 prairiedog.hashnode.com
 0.0.0.0 privacy-api.9gag.com
+0.0.0.0 privacy.reverso.net
 0.0.0.0 privacyfriendly.netlify.app
 0.0.0.0 private.wccftech.com
 0.0.0.0 prod-events.nykaa.com
@@ -3334,6 +3338,7 @@
 0.0.0.0 sjc.cloud.optable.co
 0.0.0.0 slipstream.skyscanner.net
 0.0.0.0 smetrics.couponcabin.com
+0.0.0.0 smetrics.inova.org
 0.0.0.0 smetrics.ralphlauren.com
 0.0.0.0 smetrics.vanguard.com
 0.0.0.0 sofire.terabox.app
@@ -3429,6 +3434,7 @@
 0.0.0.0 t.y8.com
 0.0.0.0 t2.hulu.com
 0.0.0.0 t810.ctpost.com
+0.0.0.0 tagdelivery.mayoclinic.org
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagging.steelseries.com
 0.0.0.0 tags-event.woolworths.co.nz
