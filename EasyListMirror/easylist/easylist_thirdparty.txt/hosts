@@ -144,6 +144,7 @@
 0.0.0.0 increaserev3.static-cloudflare.workers.dev
 0.0.0.0 increaserev4.static-cloudflare.workers.dev
 0.0.0.0 increaserev5.static-cloudflare.workers.dev
+0.0.0.0 increv1.static-cloudflare.workers.dev
 0.0.0.0 js.gov.cfd
 0.0.0.0 js.kakuyomu.in
 0.0.0.0 js.kkraw.com
@@ -469,6 +470,7 @@
 0.0.0.0 d1ol7fsyj96wwo.cloudfront.net
 0.0.0.0 d1on4urq8lvsb1.cloudfront.net
 0.0.0.0 d1or04kku1mxl9.cloudfront.net
+0.0.0.0 d1owuvqs9tkert.cloudfront.net
 0.0.0.0 d1oykxszdrgjgl.cloudfront.net
 0.0.0.0 d1p0vowokmovqz.cloudfront.net
 0.0.0.0 d1p3zboe6tz3yy.cloudfront.net
@@ -668,6 +670,7 @@
 0.0.0.0 d2d8qsxiai9qwj.cloudfront.net
 0.0.0.0 d2db10c4rkv9vb.cloudfront.net
 0.0.0.0 d2dkurdav21mkk.cloudfront.net
+0.0.0.0 d2dxy39sqorbhv.cloudfront.net
 0.0.0.0 d2dyjetg3tc2wn.cloudfront.net
 0.0.0.0 d2e30rravz97d4.cloudfront.net
 0.0.0.0 d2e5x3k1s6dpd4.cloudfront.net
@@ -685,6 +688,7 @@
 0.0.0.0 d2ezb29y2sin9e.cloudfront.net
 0.0.0.0 d2f0ixlrgtk7ff.cloudfront.net
 0.0.0.0 d2f0uviei09pxb.cloudfront.net
+0.0.0.0 d2f5h9m0jmnhjh.cloudfront.net
 0.0.0.0 d2fbkzyicji7c4.cloudfront.net
 0.0.0.0 d2fbvay81k4ji3.cloudfront.net
 0.0.0.0 d2fhrdu08h12cc.cloudfront.net
