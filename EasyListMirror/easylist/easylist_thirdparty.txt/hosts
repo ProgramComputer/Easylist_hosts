@@ -202,6 +202,7 @@
 0.0.0.0 srv.yeahwebimobi.fun
 0.0.0.0 ssp.qc.coccoc.com
 0.0.0.0 static-cloudflare.workers.dev
+0.0.0.0 static-resources.workers.dev
 0.0.0.0 supply.upjers.com
 0.0.0.0 sync.gsyndication.com
 0.0.0.0 syndicate.payloadz.com
