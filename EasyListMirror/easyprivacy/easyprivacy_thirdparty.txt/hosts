@@ -481,6 +481,7 @@
 0.0.0.0 event-service.letslinc.com
 0.0.0.0 event-store.sitebehaviour.com
 0.0.0.0 event-stream.spot.im
+0.0.0.0 event-tracker.inditex.com
 0.0.0.0 event.api.drift.com
 0.0.0.0 event.api.instant.one
 0.0.0.0 event.collector.scopely.io
