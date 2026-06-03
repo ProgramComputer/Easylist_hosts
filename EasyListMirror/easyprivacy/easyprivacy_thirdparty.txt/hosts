@@ -497,6 +497,7 @@
 0.0.0.0 eventlog.chatlead.com
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 events-endpoint.pointandplace.com
+0.0.0.0 events-ingestion-helpcenter.services.gorgias.help
 0.0.0.0 events-ocu.zipify.com
 0.0.0.0 events.air.tv
 0.0.0.0 events.api.secureserver.net
