@@ -52,7 +52,6 @@
 0.0.0.0 adsbyt1.titus.one
 0.0.0.0 adsdk.bing.net
 0.0.0.0 adsdk.microsoft.com
-0.0.0.0 adserver-2084671375.us-east-1.elb.amazonaws.com
 0.0.0.0 adserving.unibet.com
 0.0.0.0 adsinteractive-794b.kxcdn.com
 0.0.0.0 adtechvideo.s3.amazonaws.com
@@ -117,7 +116,6 @@
 0.0.0.0 dynbanners.netlify.app
 0.0.0.0 ebayadservices.com
 0.0.0.0 ebayrtm.com
-0.0.0.0 eclipse-adblocker.pro
 0.0.0.0 engine.eroge.com
 0.0.0.0 epnt.ebay.com
 0.0.0.0 etrader.kalahari.com
@@ -138,12 +136,10 @@
 0.0.0.0 hvdt8.chimeratool.com
 0.0.0.0 j.bids.ws
 0.0.0.0 js.gov.cfd
-0.0.0.0 js.kakuyomu.in
 0.0.0.0 js.kkraw.com
 0.0.0.0 js.manga1001.win
 0.0.0.0 js.mangalove.top
 0.0.0.0 js.mangaraw.bid
-0.0.0.0 js.phoenixmanga.com
 0.0.0.0 js.rev.iq
 0.0.0.0 karma.mdpcdn.com
 0.0.0.0 link.link.ru
@@ -166,7 +162,6 @@
 0.0.0.0 omegadblocker.com
 0.0.0.0 onlinepromogift.com
 0.0.0.0 optimizer.apiswidget.com
-0.0.0.0 oscarey.my.id
 0.0.0.0 ourdreamstaticpages.pages.dev
 0.0.0.0 out.betforce.io
 0.0.0.0 pacontainer.s3.amazonaws.com
