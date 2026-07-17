@@ -373,6 +373,7 @@
 0.0.0.0 kape.dataplane.rudderstack.com
 0.0.0.0 kinesis.us-east-1.analytics.edmentum.com
 0.0.0.0 kqefj.clearstem.com
+0.0.0.0 lc-event.pixiv.net
 0.0.0.0 librato-collector.genius.com
 0.0.0.0 link.kogan.com
 0.0.0.0 lists.ccmbg.com
