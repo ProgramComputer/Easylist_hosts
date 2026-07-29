@@ -181,6 +181,7 @@
 0.0.0.0 analytics.vanillaforums.com
 0.0.0.0 analytics.vdo.ai
 0.0.0.0 analytics.vendemore.com
+0.0.0.0 analytics.veygo.co
 0.0.0.0 analytics.vitalsignstracker.com
 0.0.0.0 analytics.vixcloud.co
 0.0.0.0 analytics.wask.co
@@ -346,7 +347,6 @@
 0.0.0.0 collect.usefathom.com
 0.0.0.0 collect.verify.lnearn.com
 0.0.0.0 collectfront.nector.io
-0.0.0.0 collection.e-satisfaction.com
 0.0.0.0 collector-1.ex.co
 0.0.0.0 collector-api.99designs.com
 0.0.0.0 collector-api.frspecifics.com
@@ -840,6 +840,7 @@
 0.0.0.0 pixel.mintigo.com
 0.0.0.0 pixel.mtrcs.samba.tv
 0.0.0.0 pixel.newscred.com
+0.0.0.0 pixel.nudgify.com
 0.0.0.0 pixel.propublica.org
 0.0.0.0 pixel.pub.lilyai.net
 0.0.0.0 pixel.redgifs.com
