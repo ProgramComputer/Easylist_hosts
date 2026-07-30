@@ -864,6 +864,7 @@
 0.0.0.0 c.imedia.cz
 0.0.0.0 c.live.com
 0.0.0.0 c.mgid.com
+0.0.0.0 c.trkn.it
 0.0.0.0 c.wen.ru
 0.0.0.0 c3metrics.medifast1.com
 0.0.0.0 cache2.delvenetworks.com
@@ -1051,6 +1052,7 @@
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 eel.transistor.fm
 0.0.0.0 enc-90128738.b-cdn.net
+0.0.0.0 ep.jamx.ai
 0.0.0.0 epsilon.6sense.com
 0.0.0.0 eq.userneeds.com
 0.0.0.0 era.easyvoyage.com
@@ -3285,6 +3287,7 @@
 0.0.0.0 observe.metarouter.io
 0.0.0.0 ocular.hotukdeals.com
 0.0.0.0 ohm-dot-hackster-io.appspot.com
+0.0.0.0 ol-collector.quillbot.com
 0.0.0.0 op.dragonfru.it
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimizely.techtarget.com
