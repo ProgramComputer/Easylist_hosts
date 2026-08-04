@@ -452,6 +452,7 @@
 0.0.0.0 analytics.spun.com.br
 0.0.0.0 analytics.tufos.com.br
 0.0.0.0 collect.chaordicsystems.com
+0.0.0.0 engagement.coremedia.cloud
 0.0.0.0 events.chaordicsystems.com
 0.0.0.0 eventsourcing.ms.harmo.me
 0.0.0.0 feature-flag-edge.live.clickbus.net
@@ -570,6 +571,7 @@
 0.0.0.0 creatives.sunmedia.tv
 0.0.0.0 ctx.citiservi.es
 0.0.0.0 datanoticias.prisasd.com
+0.0.0.0 el.siglo.mx
 0.0.0.0 g-stats.openhost.es
 0.0.0.0 llmometrics.b-cdn.net
 0.0.0.0 madrid.report.botm.transparentedge.io
