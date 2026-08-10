@@ -472,6 +472,7 @@
 0.0.0.0 ecomm.events
 0.0.0.0 ecommerce-events.adscale.com
 0.0.0.0 ecommstats.s3.amazonaws.com
+0.0.0.0 edge.venatusmedia.com
 0.0.0.0 eel.transistor.fm
 0.0.0.0 enc-90128738.b-cdn.net
 0.0.0.0 ep.jamx.ai
@@ -877,6 +878,7 @@
 0.0.0.0 pr.blogflux.com
 0.0.0.0 prd-collector-anon.ex.co
 0.0.0.0 prd-collector-platform.ex.co
+0.0.0.0 prebid.loopmertb.com
 0.0.0.0 prf.vagnt.com
 0.0.0.0 privacy-analytics-proxy.cookiebot.com
 0.0.0.0 privacy.outdoorsg.com
