@@ -828,6 +828,7 @@
 0.0.0.0 beacon.cdnma.com
 0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon.flow.io
+0.0.0.0 beacon.joinlede.com
 0.0.0.0 beacon.klm.com
 0.0.0.0 beacon.peakhour.io
 0.0.0.0 beacon.riskified.com
@@ -1220,6 +1221,7 @@
 0.0.0.0 inbound-analytics.pixlee.co
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 informer.yandex.ru
+0.0.0.0 ingest.in.signoz.cloud
 0.0.0.0 ingest.make.rvapps.io
 0.0.0.0 ingesteer.services-prod.nsvcs.net
 0.0.0.0 ingress.trendii.com
@@ -3505,6 +3507,7 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.av.st
 0.0.0.0 t.birchlane.com
+0.0.0.0 t.dailydot.com
 0.0.0.0 t.dailymail.co.uk
 0.0.0.0 t.deepnote.com
 0.0.0.0 t.factorform.com
@@ -3710,6 +3713,7 @@
 0.0.0.0 wup-2ffe60ee.westpac.com.au
 0.0.0.0 bup.bankofamerica.com
 0.0.0.0 cdn1.skrill.com
+0.0.0.0 check2.lloydsbank.co.uk
 0.0.0.0 d276.ourmidland.com
 0.0.0.0 d810.mysanantonio.com
 0.0.0.0 dii.bankaust.com.au
