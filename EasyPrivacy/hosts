@@ -1208,6 +1208,7 @@
 0.0.0.0 informer.yandex.ru
 0.0.0.0 ingest.in.signoz.cloud
 0.0.0.0 ingest.make.rvapps.io
+0.0.0.0 ingest.promptwatch.com
 0.0.0.0 ingesteer.services-prod.nsvcs.net
 0.0.0.0 ingress.trendii.com
 0.0.0.0 ins.connatix.com
@@ -2433,6 +2434,8 @@
 0.0.0.0 event-tracker-library.mediaownerscloud.com
 0.0.0.0 metrics.find.gr
 0.0.0.0 stats-real-clients.zentech.gr
+0.0.0.0 analytics.maskyoo.net
+0.0.0.0 radar.wizzo.media
 0.0.0.0 tag.weezmo.com
 0.0.0.0 heartbeat.pmd.444.hu
 0.0.0.0 pixel.barion.com
@@ -2818,6 +2821,7 @@
 0.0.0.0 aa.avvo.com
 0.0.0.0 ab-machine.forbes.com
 0.0.0.0 ab.fanatical.com
+0.0.0.0 acjs.aliyun.com
 0.0.0.0 activity.fiverr.com
 0.0.0.0 adc-js.nine.com.au
 0.0.0.0 adl.bankofthewest.com
