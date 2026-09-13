@@ -653,6 +653,7 @@
 0.0.0.0 analytics.avanser.com.au
 0.0.0.0 analytics.aweber.com
 0.0.0.0 analytics.bestreviews.com
+0.0.0.0 analytics.bhaskarsaikia.in
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.bomiv.com
 0.0.0.0 analytics.carambo.la
@@ -40035,6 +40036,7 @@
 0.0.0.0 bc.qunar.com
 0.0.0.0 beacon.cdn.qq.com
 0.0.0.0 beacon.qq.com
+0.0.0.0 cactus.jd.com
 0.0.0.0 channel-analysis-js.gmw.cn
 0.0.0.0 cherry.le.com
 0.0.0.0 click.gamersky.com
@@ -40063,12 +40065,14 @@
 0.0.0.0 gk.sina.cn
 0.0.0.0 h5.analytics.126.net
 0.0.0.0 h5log.zongheng.com
+0.0.0.0 hermes.jd.com
 0.0.0.0 huaxiang.eastmoney.com
 0.0.0.0 idm.api.autohome.com.cn
 0.0.0.0 imgstat.baidu.com
 0.0.0.0 improving.wuzhuiso.com
 0.0.0.0 jcmonitor.xcar.com.cn
 0.0.0.0 l.web.huya.com
+0.0.0.0 log-h5.imdada.cn
 0.0.0.0 log-upload-os.hoyolab.com
 0.0.0.0 log-upload-os.hoyoverse.com
 0.0.0.0 log.bitauto.com
@@ -40082,7 +40086,9 @@
 0.0.0.0 log2.sina.cn
 0.0.0.0 logs.51cto.com
 0.0.0.0 logtake.weidian.com
+0.0.0.0 mercury.jd.com
 0.0.0.0 metric.huya.com
+0.0.0.0 mllog.jd.com
 0.0.0.0 monitor.music.qq.com
 0.0.0.0 msg.qy.net
 0.0.0.0 mtrace.qq.com
@@ -40140,9 +40146,11 @@
 0.0.0.0 trail.53kf.com
 0.0.0.0 udblog.huya.com
 0.0.0.0 uestat.video.qiyi.com
+0.0.0.0 uranus.jd.com
 0.0.0.0 utrack.hexun.com
 0.0.0.0 vatrack.hinet.net
 0.0.0.0 wkctj.baidu.com
+0.0.0.0 wl.jd.com
 0.0.0.0 ylog.huya.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
 0.0.0.0 zio.xcar.com.cn
