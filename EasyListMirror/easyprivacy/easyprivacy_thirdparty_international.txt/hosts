@@ -141,6 +141,7 @@
 0.0.0.0 adv-sv-stat.focus.cn
 0.0.0.0 analytics.afirstsoft.cn
 0.0.0.0 analytics.meituan.net
+0.0.0.0 apm-rum.inf.miui.com
 0.0.0.0 atanx.alicdn.com
 0.0.0.0 atom-log.3.cn
 0.0.0.0 beacon.sina.com.cn
@@ -200,6 +201,7 @@
 0.0.0.0 track.tomwx.net
 0.0.0.0 track.unidata.ai
 0.0.0.0 tracker-00.qvb.qcloud.com
+0.0.0.0 tracker.fengkongcloud.com
 0.0.0.0 tracking.cat898.com
 0.0.0.0 tracklog.58.com
 0.0.0.0 trail.71baomu.com
