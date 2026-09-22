@@ -137,6 +137,7 @@
 0.0.0.0 visitping.rossel.be
 0.0.0.0 ws3.smartp.com
 0.0.0.0 freshatl.azurewebsites.net
+0.0.0.0 4399logs.4399doc.com
 0.0.0.0 66hao.cc
 0.0.0.0 adv-sv-stat.focus.cn
 0.0.0.0 analytics.afirstsoft.cn
@@ -177,7 +178,10 @@
 0.0.0.0 log.tagtic.cn
 0.0.0.0 mcs.zijieapi.com
 0.0.0.0 mon.zijieapi.com
+0.0.0.0 ms.xunyou.com
 0.0.0.0 msg.71.am
+0.0.0.0 opt.doubao.com
+0.0.0.0 oss.weread.qq.com
 0.0.0.0 p.aty.sohu.com
 0.0.0.0 p.tencentmind.com
 0.0.0.0 pos.baidu.com
@@ -206,6 +210,7 @@
 0.0.0.0 tracklog.58.com
 0.0.0.0 trail.71baomu.com
 0.0.0.0 ts-analysis.shoalter.com
+0.0.0.0 umini.shujupie.com
 0.0.0.0 videostats.kakao.com
 0.0.0.0 web-trace.ksapisrv.com
 0.0.0.0 webstat.qiumibao.com
@@ -538,6 +543,7 @@
 0.0.0.0 stat.tvigle.ru
 0.0.0.0 statistics.fppressa.ru
 0.0.0.0 stats.tazeros.com
+0.0.0.0 stats.temptcdn.com
 0.0.0.0 stats2.videonow.ru
 0.0.0.0 t1.trex.media
 0.0.0.0 tags.soloway.ru
