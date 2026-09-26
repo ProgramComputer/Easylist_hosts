@@ -1298,6 +1298,7 @@
 0.0.0.0 loggingapi.spingo.com
 0.0.0.0 loglady.skypicker.com
 0.0.0.0 logs-api.shoprunner.com
+0.0.0.0 logs-ingester.prod.zuddl.com
 0.0.0.0 logs.animaapp.com
 0.0.0.0 logs.betterstack.com
 0.0.0.0 logs.dynamicauth.com
