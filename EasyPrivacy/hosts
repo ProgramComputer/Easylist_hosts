@@ -1125,6 +1125,7 @@
 0.0.0.0 events.pickrr.com
 0.0.0.0 events.plutus.ninja
 0.0.0.0 events.realgravity.com
+0.0.0.0 events.searchtap.net
 0.0.0.0 events.shareably.net
 0.0.0.0 events.shoplift.ai
 0.0.0.0 events.splash-screen.net
@@ -1188,6 +1189,7 @@
 0.0.0.0 geoservice.curse.com
 0.0.0.0 geotags.refinery89.com
 0.0.0.0 gi-client-tracking.goodgamestudios.com
+0.0.0.0 gkx.gokwik.co
 0.0.0.0 globale-analytics-sdk.global-e.com
 0.0.0.0 go.activengage.com
 0.0.0.0 gollum.monotote.com
@@ -1395,6 +1397,7 @@
 0.0.0.0 p.jmlp.app
 0.0.0.0 p.metrilo.com
 0.0.0.0 p.placed.com
+0.0.0.0 p.sa7eer.com
 0.0.0.0 p.skimresources.com
 0.0.0.0 p.tryretool.com
 0.0.0.0 p.typekit.net
@@ -1508,6 +1511,7 @@
 0.0.0.0 raven.adeptmind.ai
 0.0.0.0 reach-id.orbit.tm-awx.com
 0.0.0.0 realm.hearst3pcc.com
+0.0.0.0 realtimeanalytics.yext.com
 0.0.0.0 receive.wmcdp.io
 0.0.0.0 reco.target2sell.com
 0.0.0.0 recs-api.conde.digital
@@ -1811,6 +1815,7 @@
 0.0.0.0 track.btdmp.com
 0.0.0.0 track.coherentpath.com
 0.0.0.0 track.contently.com
+0.0.0.0 track.convertfox.com
 0.0.0.0 track.cordial.io
 0.0.0.0 track.digitalriver.com
 0.0.0.0 track.emerse.com
@@ -2357,6 +2362,7 @@
 0.0.0.0 atom-log.3.cn
 0.0.0.0 beacon.sina.com.cn
 0.0.0.0 beaconcdn.qq.com
+0.0.0.0 browsertdidticket.m.qq.com
 0.0.0.0 bzclk.baidu.com
 0.0.0.0 c.holmesmind.com
 0.0.0.0 cartx.cloud
@@ -2375,6 +2381,7 @@
 0.0.0.0 fourier.alibaba.com
 0.0.0.0 fourier.taobao.com
 0.0.0.0 g.yccdn.com
+0.0.0.0 gatherer.m.qq.com
 0.0.0.0 gdt.qq.com
 0.0.0.0 hacx60.com
 0.0.0.0 haostat.qihoo.com
@@ -2426,6 +2433,7 @@
 0.0.0.0 videostats.kakao.com
 0.0.0.0 web-trace.ksapisrv.com
 0.0.0.0 webstat.qiumibao.com
+0.0.0.0 webstat.ws.126.net
 0.0.0.0 webtrack.pospal.cn
 0.0.0.0 wlog.kuaishou.com
 0.0.0.0 tracking.vid4u.org
@@ -2841,6 +2849,7 @@
 0.0.0.0 track.livasoft.com.tr
 0.0.0.0 tracker.adcluster.com.tr
 0.0.0.0 traffic.wdc.center
+0.0.0.0 trafik.koopit.ist
 0.0.0.0 wa.wawlabs.com
 0.0.0.0 informers.sinoptik.ua
 0.0.0.0 tracker.multisearch.io
@@ -3055,6 +3064,7 @@
 0.0.0.0 count.rin.ru
 0.0.0.0 counter.darkreader.app
 0.0.0.0 cpt.itv.com
+0.0.0.0 crta.dailymail.com
 0.0.0.0 crta.metro.co.uk
 0.0.0.0 crumbs.robinhood.com
 0.0.0.0 cryo.socialblade.com
@@ -3398,6 +3408,7 @@
 0.0.0.0 pulsar.ebay.com
 0.0.0.0 pulse.delta.com
 0.0.0.0 pulse.genki.world
+0.0.0.0 pulsepoint.ideal.house
 0.0.0.0 pumpkin.abine.com
 0.0.0.0 px.srvcs.tumblr.com
 0.0.0.0 pxl.indeed.com
@@ -3574,6 +3585,7 @@
 0.0.0.0 tc.geniusmonkey.com
 0.0.0.0 td.airdroid.com
 0.0.0.0 tealium-proxy.libertex.org
+0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 telegraph.prd.api.max.com
 0.0.0.0 telem.sre.gopuff.com
 0.0.0.0 telemetry.adobe.io
@@ -40116,6 +40128,7 @@
 0.0.0.0 log.m.sm.cn
 0.0.0.0 log.mgtv.com
 0.0.0.0 log.mix.sina.com.cn
+0.0.0.0 log.news.baidu.com
 0.0.0.0 log.sina.cn
 0.0.0.0 log.zcool.com.cn
 0.0.0.0 log.zongheng.com

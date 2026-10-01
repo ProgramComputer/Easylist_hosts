@@ -148,6 +148,7 @@
 0.0.0.0 atom-log.3.cn
 0.0.0.0 beacon.sina.com.cn
 0.0.0.0 beaconcdn.qq.com
+0.0.0.0 browsertdidticket.m.qq.com
 0.0.0.0 bzclk.baidu.com
 0.0.0.0 c.holmesmind.com
 0.0.0.0 cartx.cloud
@@ -166,6 +167,7 @@
 0.0.0.0 fourier.alibaba.com
 0.0.0.0 fourier.taobao.com
 0.0.0.0 g.yccdn.com
+0.0.0.0 gatherer.m.qq.com
 0.0.0.0 gdt.qq.com
 0.0.0.0 hacx60.com
 0.0.0.0 haostat.qihoo.com
@@ -217,6 +219,7 @@
 0.0.0.0 videostats.kakao.com
 0.0.0.0 web-trace.ksapisrv.com
 0.0.0.0 webstat.qiumibao.com
+0.0.0.0 webstat.ws.126.net
 0.0.0.0 webtrack.pospal.cn
 0.0.0.0 wlog.kuaishou.com
 0.0.0.0 tracking.vid4u.org
@@ -632,6 +635,7 @@
 0.0.0.0 track.livasoft.com.tr
 0.0.0.0 tracker.adcluster.com.tr
 0.0.0.0 traffic.wdc.center
+0.0.0.0 trafik.koopit.ist
 0.0.0.0 wa.wawlabs.com
 0.0.0.0 informers.sinoptik.ua
 0.0.0.0 tracker.multisearch.io
