@@ -1575,6 +1575,7 @@
 0.0.0.0 secure-stats.pingdom.com
 0.0.0.0 secure.merchantadvantage.com
 0.0.0.0 seg.sharethis.com
+0.0.0.0 session.bugsnag.kindle.amazon.dev
 0.0.0.0 session.timecommerce.net
 0.0.0.0 sessions.embeddables.com
 0.0.0.0 sftrack.searchforce.net
@@ -40322,6 +40323,7 @@
 0.0.0.0 tracker.stileo.it
 0.0.0.0 tracking.gruppo.mps.it
 0.0.0.0 ad-bls-tracking.lemino.docomo.ne.jp
+0.0.0.0 ad-manager.matsukiyococokara-online.com
 0.0.0.0 ad-platform.jmty.jp
 0.0.0.0 altema-log.com
 0.0.0.0 ana.3751chat.com
