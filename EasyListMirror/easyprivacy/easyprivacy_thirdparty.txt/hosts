@@ -487,6 +487,7 @@
 0.0.0.0 eth.llamarpc.com
 0.0.0.0 etl.springbot.com
 0.0.0.0 eu-mobile.events.data.microsoft.com
+0.0.0.0 eu-office.events.data.microsoft.com
 0.0.0.0 ev.moneymade.io
 0.0.0.0 ev.stellarlabs.ai
 0.0.0.0 event-api.rdstation.com.br
@@ -1201,6 +1202,7 @@
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 tm.vendemore.com
 0.0.0.0 tms.fmm.io
+0.0.0.0 tms.wape.autodesk.com
 0.0.0.0 to.getnitropack.com
 0.0.0.0 tonanalytics.mugiwarattagentai.agency
 0.0.0.0 top-fwz1.mail.ru
