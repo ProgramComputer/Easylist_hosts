@@ -98,6 +98,7 @@
 0.0.0.0 apm.qwant.com
 0.0.0.0 appanalysis.banggood.com
 0.0.0.0 aptoide-mmp.aptoide.com
+0.0.0.0 arc.msn.com
 0.0.0.0 asanalytics.booking.com
 0.0.0.0 ats.alot.com
 0.0.0.0 aurum.tirto.id
@@ -364,6 +365,7 @@
 0.0.0.0 ingest.make.rvohealth.com
 0.0.0.0 ingress.linktr.ee
 0.0.0.0 insights-mxp-cdn.coursecareers.com
+0.0.0.0 insights.builderprofile.aws.dev
 0.0.0.0 intent.cmo.com.au
 0.0.0.0 intent.goodgearguide.com.au
 0.0.0.0 intent.macworld.co.uk
@@ -495,6 +497,7 @@
 0.0.0.0 p.midbound.net
 0.0.0.0 p.minds.com
 0.0.0.0 p.spotidownloader.com
+0.0.0.0 p.teamily.ai
 0.0.0.0 pac.thescottishsun.co.uk
 0.0.0.0 pac.thesun.co.uk
 0.0.0.0 pac.thetimes.com
@@ -602,6 +605,7 @@
 0.0.0.0 rvo-cohesion.healthline.com
 0.0.0.0 s.gofile.io
 0.0.0.0 s.infogram.com
+0.0.0.0 s.sintra.ai
 0.0.0.0 s.wayfair.com
 0.0.0.0 s4vrsde.www.arturia.com
 0.0.0.0 sa.uswitch.com
