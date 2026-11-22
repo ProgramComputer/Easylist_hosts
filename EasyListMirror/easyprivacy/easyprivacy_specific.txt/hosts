@@ -311,7 +311,11 @@
 0.0.0.0 fp.uncensored.com
 0.0.0.0 fpa-cdn.adweek.com
 0.0.0.0 fpa-cdn.arstechnica.com
+0.0.0.0 fpa-cdn.nbcnews.com
+0.0.0.0 fpa-cdn.today.com
+0.0.0.0 fpa-events.nbcnews.com
 0.0.0.0 fpa-events.theintercept.com
+0.0.0.0 fpa-events.today.com
 0.0.0.0 fpc.fingerprint.com
 0.0.0.0 fpt.microsoft.com
 0.0.0.0 fresnel-events.vimeocdn.com
