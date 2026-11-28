@@ -439,6 +439,7 @@
 0.0.0.0 dash.kryon.one
 0.0.0.0 data.cdnbasket.net
 0.0.0.0 data.circulate.com
+0.0.0.0 data.clickocean.io
 0.0.0.0 data.digitalks.az
 0.0.0.0 data.eetech.com
 0.0.0.0 data.emb-api.com
@@ -784,6 +785,7 @@
 0.0.0.0 monitor-frontend-collector.a.bybit-aws.com
 0.0.0.0 monitor.agenedia.com
 0.0.0.0 monitor.fraudblocker.com
+0.0.0.0 monitor.tapper.ai
 0.0.0.0 monitoring.iraiser.eu
 0.0.0.0 monorail-edge.shopifysvc.com
 0.0.0.0 mormont.gamer-network.net
@@ -948,6 +950,7 @@
 0.0.0.0 pylon.micstatic.com
 0.0.0.0 qubitanalytics.appspot.com
 0.0.0.0 query1.petametrics.com
+0.0.0.0 r.lr-hv-in.com
 0.0.0.0 r.sdiapi.net
 0.0.0.0 r.skimresources.com
 0.0.0.0 r.winf.site
@@ -1478,6 +1481,7 @@
 0.0.0.0 widget-pixels.outbrain.com
 0.0.0.0 widget.educationdynamics.com
 0.0.0.0 win.staticstuff.net
+0.0.0.0 wkbrs1.tingyun.com
 0.0.0.0 wl-pixel.index.digital
 0.0.0.0 work.selecdoo.com
 0.0.0.0 ws.audioeye.com
